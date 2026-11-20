@@ -225,11 +225,6 @@ body {
   border-top: 1px solid var(--archive-line);
   padding: 24px 0 28px;
 }
-.archive-group .group-number {
-  font-size: 10px;
-  letter-spacing: 0.06em;
-  color: var(--archive-muted);
-}
 .archive-group h2 {
   margin: 8px 0;
   font-size: 23px;
