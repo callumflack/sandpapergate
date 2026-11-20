@@ -31,3 +31,9 @@ Callum asked to remove the “Public record” label beside Search. Removed that
 ## 20 November 2026 — Restore owner access, protect contributor merges
 
 Callum explicitly corrected the policy: PR/CODEOWNER controls are for external contributors; he must retain direct-push access. Verified he is the only repository collaborator/admin and no additional rulesets exist. Permanent requested configuration: disable only admin enforcement on the existing main protection; retain one Callum CODEOWNER review, stale dismissal, strict Public site checks, conversation/linear-history rules and no force pushes/deletions for contributors. This is the requested owner access policy, not a temporary operational override. Delivery proceeds by an owner-authorised direct push and existing manual Cloudflare release. Documentation reconciled with this authority.
+
+## 20 November 2026 — Verified source-title handoff
+
+Callum authorised the content chat to hand over25 verified title changes for commit/deploy; both roots are stable and that chat is holding writes. Reviewed58 titles. Pat Cummins’s13November press conference now has a human-readable event title while the transcript badge retains verification status. Source IDs, URLs, locators and frozen source text/hashes preserved. Peer reports full format/build/Astro/Nimbus and archive/public proof; root independently confirms captured long paragraphs remain excluded from public MDX. The Port Elizabeth comparison and short answer remain private under Callum’s explicit hold.
+
+The complete release has been committed and manually verified through93fe1a6. Root is committing this final title handoff; analytics/CI chat owns PR2 and the explicitly approved Worker-only Editor token in GitHub production(main only). No new1Password access or broader credentials authorised. Automatic main deployment remains to be observed after that workflow merge.

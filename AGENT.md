@@ -6,6 +6,10 @@
 - Headings, description and body share their parent width; no character-width hacks or manual body line breaks.
 - Checks: npm run format:check, npm run build, npm run check, npm run verify:public; observe changed production-preview pages/search.
 
+## Source titles
+
+Name the event or document in the title. Use the status label for transcript method, verification and completeness. Use a publisher or date to distinguish editions where needed. Preserve source IDs, URLs and exact citations when editing titles.
+
 ## Questions index
 
 Use chronology for the groups and importance within each group. Lead with the question whose answer would most change a reader’s understanding of that part of the dispute. For the tour, who knew and when comes before whether use began at Port Elizabeth.
