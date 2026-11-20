@@ -18,6 +18,10 @@ A push alone is not a completed deployment. Confirm the checks and deployment jo
 
 Name the event or document in the title. Use the status label for transcript method, verification and completeness. Use a publisher or date to distinguish editions where needed. Preserve source IDs, URLs and exact citations when editing titles.
 
+## Question pages
+
+Follow the [question-page writing guidance](./src/content/AGENTS.md) when drafting or revising an individual question page.
+
 ## Questions index
 
 Use chronology for the groups and importance within each group. Lead with the question whose answer would most change a reader’s understanding of that part of the dispute. For the tour, who knew and when comes before whether use began at Port Elizabeth.
