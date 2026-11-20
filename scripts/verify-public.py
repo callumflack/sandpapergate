@@ -44,14 +44,21 @@ for s in byid.values():
  for url in s['paragraph_urls']:
   assert urlsplit(url).fragment in page.ids,(s['id'],url)
   locators+=1
-claims=json.loads((DIST/'claims.json').read_text())['claims'];refs=0
+claim_manifest=json.loads((DIST/'claims.json').read_text())
+claims=claim_manifest['claims']+claim_manifest['khawaja_claims'];refs=0
 for claim in claims:
- for side in ['supporting','challenging']:
-  for argument in claim[side]:
+ groups=[claim['supporting'],claim['challenging']]
+ if 'basis' in claim:groups.append([{'refs':claim['basis']['refs']}])
+ for arguments in groups:
+  for argument in arguments:
    for ref in argument['refs']:
     sid=manifest['aliases'].get(ref['source'],ref['source']);s=byid[sid]
     page=pages[s['url'].lstrip('/')+'index.html']
-    for block in ref['blocks']:assert block in page.ids;refs+=1
+    argument_page=pages['questions/'+claim['slug']+'/index.html']
+    for block in ref['blocks']:
+     assert block in page.ids
+     assert s['url']+'#'+block in argument_page.links
+     refs+=1
 assert (DIST/'pagefind/pagefind.js').is_file()
 assert (DIST/'llms.txt').is_file() and (DIST/'llms-full.txt').is_file()
 assert len(re.findall(r'href="/people/[^/#]+/"',(DIST/'people/index.html').read_text()))==17

@@ -19,3 +19,15 @@ User selected Cloudflare, superseding the planned GitHubPages host. Latest Scraw
 - Cloudflare Git connection requested a new account-level GitHub app authorisation. Cancelled that request; no new GitHub access granted. Use direct upload of the checked public build for initial release instead. Main/PR checks remain GitHub-owned; automatic deployment on merge is not configured.
 
 - Initial commit stopped before any remote repository was created: imported KB size-hook installer assumed KB-only helper/layout scripts absent here. Replaced that inapplicable local hook with a repository-owned staged-blob10MiBguard. No guard bypass. Removed two trailing-whitespace lines in copied Nimbus components; no behaviour change. Public code is still unpushed pending initial commit and protection setup.
+
+## 20 November 2026 — Full accumulated archive update
+
+Callum authorised committing and deploying all dirty work, including other agents’ changes. Prepared all current question/claim/coverage/editorial/typography changes for this public reference edition; protected main, sole CODEOWNER and manual Cloudflare release remain intact. The private corpus and logs remain separate. Source IDs/locators preserved, fourteen Khawaja claims exported, public verifier covers both claim sets and allegation-basis links. Pending required checks, PR, Callum review/merge and production deployment.
+
+### Header badge removal
+
+Callum asked to remove the “Public record” label beside Search. Removed that badge and its styles from this release checkout. An isolated build and the public archive verifier passed after the change.
+
+## 20 November 2026 — Restore owner access, protect contributor merges
+
+Callum explicitly corrected the policy: PR/CODEOWNER controls are for external contributors; he must retain direct-push access. Verified he is the only repository collaborator/admin and no additional rulesets exist. Permanent requested configuration: disable only admin enforcement on the existing main protection; retain one Callum CODEOWNER review, stale dismissal, strict Public site checks, conversation/linear-history rules and no force pushes/deletions for contributors. This is the requested owner access policy, not a temporary operational override. Delivery proceeds by an owner-authorised direct push and existing manual Cloudflare release. Documentation reconciled with this authority.

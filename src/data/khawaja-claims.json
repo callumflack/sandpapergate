@@ -1,0 +1,1364 @@
+[
+  {
+    "slug": "khawaja/earlier-use",
+    "title": "Sandpaper was used at Port Elizabeth",
+    "proposition": "Sandpaper was discussed and used on the match ball at Port Elizabeth, before the Cape Town exposure.",
+    "group": "Use and knowledge",
+    "kind": "Factual occurrence and chronology",
+    "basis": {
+      "text": "Brettig’s November 7 report attributes this earlier onset to Khawaja’s book, locating first use on day two. In the ABC interview Khawaja stands by what he saw and the conversations he had at Port Elizabeth.",
+      "limit": "The newspaper contains a reporter’s summary of the book, not the complete first-person chapter. Khawaja’s reported 2018 notes are not in the archive.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": [
+            "p-001",
+            "p-002",
+            "p-005",
+            "p-008",
+            "p-009",
+            "p-010",
+            "p-011"
+          ]
+        },
+        {
+          "source": "SP040",
+          "blocks": ["p-006", "p-007"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Two other participants describe direct involvement",
+        "reasoning": "Bancroft describes taking sandpaper onto the field after tea on day two and using it. Sayers places his first awareness at Port Elizabeth and describes sandpaper being handed to him to take off the field. Those accounts support actual use and handling, beyond an inference from reverse swing.",
+        "limit": "These are distinct participant accounts, but all emerged publicly years later. Their independence in every detail is not established. Sayers assumes, rather than distinctly recalls, who handed it to him.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-071", "p-075", "p-076"]
+          },
+          {
+            "source": "SP029",
+            "blocks": ["p-008", "p-009", "p-019", "p-022", "p-025", "p-027"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "The contemporary first-occasion account conflicts with the new chronology",
+        "reasoning": "Smith’s immediate March 2018 press conference presented the incident as the first occasion under his leadership. That is a contemporaneous account against the later onset narrative.",
+        "limit": "CA later charged Smith with misleading public comments. Contemporaneity alone does not make that account reliable. Cummins’s lack of earlier knowledge also cannot prove that earlier use never occurred.",
+        "refs": [
+          {
+            "source": "SP036",
+            "blocks": ["p-012", "p-013", "p-014", "p-015"]
+          },
+          {
+            "source": "SP005",
+            "blocks": ["p-009"]
+          },
+          {
+            "source": "SP025",
+            "blocks": ["p-007", "p-008"]
+          }
+        ]
+      },
+      {
+        "title": "Agreement on onset does not establish continued use",
+        "reasoning": "Bancroft describes continued use through Port Elizabeth and Cape Town; Sayers qualifies his belief that it was not used again in that Port Elizabeth Test. This prevents treating their accounts as mutually confirming every part of the chronology.",
+        "limit": "Sayers’s limited recollection is not a categorical observation of non-use. This disagreement bears on duration more than on their common account of an earlier start.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-090"]
+          },
+          {
+            "source": "SP029",
+            "blocks": ["p-029", "p-031"]
+          }
+        ]
+      }
+    ],
+    "assessment": "Earlier onset has comparatively substantial participant support in this record. It remains a retrospective account without captured contemporary physical or broadcast confirmation. Duration is more disputed than onset.",
+    "unresolved": [
+      "Do the reported 2018 notes record the timing, and can their provenance be established?",
+      "Which innings and sessions involved actual use, removal or reuse?",
+      "Is there contemporary footage or an independently recorded observation of the Port Elizabeth use?"
+    ],
+    "related": ["earlier-use", "prior-knowledge"]
+  },
+  {
+    "slug": "khawaja/wider-knowledge",
+    "title": "Knowledge extended beyond the three sanctioned players",
+    "proposition": "More than Smith, Warner and Bancroft knew about sandpaper use before it became public.",
+    "group": "Use and knowledge",
+    "kind": "Factual knowledge: at least one additional person",
+    "basis": {
+      "text": "Khawaja’s original interview says the team knew and should respond together. This narrower proposition follows from his broader allegation; it is not a substitute for assessing his claim that everyone knew.",
+      "limit": "Define the match and the knowledge claimed: awareness of actual use is different from knowledge of a particular future implementation plan.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": ["p-006", "p-018", "p-046"]
+        },
+        {
+          "source": "SP040",
+          "blocks": ["p-010", "p-011"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Sayers admits his own knowledge and handling",
+        "reasoning": "If Sayers’s account of knowing about sandpaper and helping remove it is true, at least one additional squad member knew. That establishes a narrower proposition without first proving what each frontline bowler knew. Khawaja also places himself beside Bancroft and asserts awareness of relevant events.",
+        "limit": "Sayers’s Port Elizabeth involvement does not by itself establish knowledge of a particular Cape Town plan. His further inference about everyone is a separate claim.",
+        "refs": [
+          {
+            "source": "SP029",
+            "blocks": ["p-019", "p-022", "p-025", "p-097"]
+          },
+          {
+            "source": "SP055",
+            "blocks": ["p-012", "p-018", "p-030"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "The official finding was explicitly confined to three",
+        "reasoning": "CA’s public finding said prior knowledge of the Cape Town incident was confined to Smith, Warner and Bancroft. That is a materially conflicting institutional account.",
+        "limit": "The underlying report and witness evidence are unavailable here. Its incident-specific scope cannot settle every act on the tour, and later first-person admissions must be assessed rather than excluded merely because they conflict with it.",
+        "refs": [
+          {
+            "source": "SP005",
+            "blocks": ["p-002", "p-003"]
+          },
+          {
+            "source": "SP004",
+            "blocks": ["p-002"]
+          }
+        ]
+      }
+    ],
+    "assessment": "Wider-than-three knowledge has a stronger affirmative case than universal knowledge, especially through Sayers’s self-admission. A failure to prove that everyone knew would not establish that only three knew.",
+    "unresolved": [
+      "Who knew of sandpaper specifically, at which match and before which event?",
+      "How does the official finding’s precise remit relate to the later Port Elizabeth admissions?",
+      "What did Khawaja personally hear, see or say before the exposure?"
+    ],
+    "related": ["prior-knowledge", "investigation-and-accountability"]
+  },
+  {
+    "slug": "khawaja/everyone-knew",
+    "title": "“All of us”: every player and staff member knew",
+    "proposition": "All players and staff knew about sandpaper use before the Cape Town screen footage.",
+    "group": "Use and knowledge",
+    "kind": "Universal factual allegation",
+    "basis": {
+      "text": "Khawaja’s original newspaper interview expressly includes batters, bowlers and staff in his all-of-us account. The proposition tested here is that every relevant player and staff member knew about sandpaper use before its public exposure. Knowledge of reverse swing, knowledge of a proposal, knowledge of actual use and participation in cheating are distinct. Someone could know and object.\n\nThe [individual Cummins question](/questions/cummins-in-2018/) examines his evidence separately; this page compares the three witnesses across the whole group.",
+      "limit": "The complete Sabr chapter and reported 2018 notes are absent. The November 7 article mixes direct interview quotations with Brettig’s book summaries; the ABC transcript preserves Khawaja’s answers separately from Ferguson’s premises. Bancroft’s later specificity cannot be inserted into Khawaja’s account. The captured Bancroft statement is a bylined access copy, not an independently compared original; direct listening checks for the interviews remain open.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": [
+            "p-001",
+            "p-002",
+            "p-006",
+            "p-009",
+            "p-010",
+            "p-011",
+            "p-012",
+            "p-018",
+            "p-046"
+          ]
+        },
+        {
+          "source": "SP040",
+          "blocks": [
+            "p-006",
+            "p-007",
+            "p-008",
+            "p-009",
+            "p-012",
+            "p-013",
+            "p-018",
+            "p-019",
+            "p-020",
+            "p-021",
+            "p-022",
+            "p-023",
+            "p-024",
+            "p-025"
+          ]
+        },
+        {
+          "source": "SP031",
+          "blocks": ["p-009", "p-010", "p-011", "p-012", "p-013", "p-019"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Khawaja: reported dressing-room observations, without individual bowler particulars",
+        "reasoning": "**What the captured sources say he saw or heard.** Brettig’s account of the book describes open Port Elizabeth discussion about roughing the ball and sandpaper, Smith distancing himself, and Bancroft volunteering. At Cape Town it places Khawaja beside Bancroft, observing an exchange with an unnamed coach. ABC’s later live blog also reports a book scene involving a dressing-room sandpaper demonstration and laughter, and quotes an unnamed coach asking Bancroft to do more. Those are attributed book accounts, not the complete chapter or independent witnesses to the scenes.\n\n**Who he specifically identifies.** In the November 7 reported scenes, Smith and Bancroft are named; the coach is not. The captured material does not give Khawaja’s person-by-person account of Cummins, Starc, Hazlewood or Lyon acknowledging sandpaper. His broader language implicates the whole group, including himself, but it is less specific than Bancroft’s subsequent account.\n\n**What he says directly when pressed.** Khawaja stands by what he saw and the conversations at Port Elizabeth, says he deliberately removed names, and declines to answer whether the named bowlers participated in discussions or Cummins knew. Ferguson supplies the categorical inference about Cummins; Khawaja does not expressly confirm it.",
+        "limit": "His broad assertion is affirmative testimony and should not be erased by the non-answer. But the non-answer supplies no additional named observation. His reported proximity could make him a useful witness to a coach’s exchange; proximity alone does not show that every nearby person heard it. The reported 2018 notes are not contemporary corroboration until their actual contents and provenance can be examined.",
+        "refs": [
+          {
+            "source": "SP055",
+            "blocks": [
+              "p-001",
+              "p-002",
+              "p-006",
+              "p-009",
+              "p-010",
+              "p-011",
+              "p-012",
+              "p-018"
+            ]
+          },
+          {
+            "source": "SP069",
+            "blocks": ["p-147", "p-148", "p-150", "p-156"]
+          },
+          {
+            "source": "SP040",
+            "blocks": [
+              "p-006",
+              "p-007",
+              "p-008",
+              "p-009",
+              "p-012",
+              "p-013",
+              "p-018",
+              "p-019",
+              "p-020",
+              "p-024",
+              "p-025",
+              "p-060",
+              "p-061"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Bancroft: named exchanges, an alleged open acknowledgment, and an informed instruction",
+        "reasoning": "**At the Port Elizabeth tea break.** Bancroft says Warner proposed sandpaper and explained why camera attention meant he could not use it himself. He puts Saker and Lehmann in the conversation, recalls people agreeing, and says Smith entered and distanced himself. He expressly qualifies this: not everyone was in the room, and he cannot speak for every word shared.\n\n**On the field.** He admits using sandpaper and names **Cummins, Starc, Hazlewood and Mitchell Marsh** in conversations about whether the ball was reversing enough. He names **Paine** as another source of feedback, recalls more work being requested and a warning to stop, and singles out Marsh joking about the swing. At Cape Town he says exchanges continued with those four fast bowlers, Paine and unnamed slips fielders. He explicitly alleges that these teammates knew he was using sandpaper, rather than merely working the seam; that allegation must be preserved.\n\n**The strongest alleged disclosure to a group.** He says that at the usual team chat on the morning of Port Elizabeth day three, his sandpaper use the previous evening was discussed and acknowledged. He singles out **Saker’s** encouragement and **Kate Hutchison’s** objection and departure. This is a much more direct proposed route to shared knowledge than the proposition that all bowlers must notice a ball’s condition. Hutchison is described as objecting, not approving.\n\n**At Cape Town.** He names **Saker** as the coach who instructed him to do more with sandpaper. He also places himself beside Khawaja and Paine. His later story about **Handscomb and Lehmann’s radio instruction** is expressly after he was caught; it is evidence of alleged knowledge then, not by itself before exposure.",
+        "limit": "This is the most specific witness account in the three, but it is retrospective. Bancroft admits earlier withholding of material facts and says Khawaja’s book revived memories. His explicit knowledge allegation goes beyond the mostly swing-related words he recounts to bowlers; a competing innocent interpretation remains possible unless context establishes shared knowledge. The alleged day-three discussion is more probative if accurately recalled, but the archive lacks an attendance list or another comparably detailed account of that meeting. A vivid memory is not independent verification.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": [
+              "p-009",
+              "p-010",
+              "p-011",
+              "p-012",
+              "p-013",
+              "p-014",
+              "p-019",
+              "p-049",
+              "p-050",
+              "p-052",
+              "p-053",
+              "p-058",
+              "p-059",
+              "p-060",
+              "p-062",
+              "p-074",
+              "p-075",
+              "p-077",
+              "p-078",
+              "p-079",
+              "p-081",
+              "p-082",
+              "p-083",
+              "p-084",
+              "p-090",
+              "p-092",
+              "p-094",
+              "p-096",
+              "p-097",
+              "p-099",
+              "p-100",
+              "p-101",
+              "p-102",
+              "p-104",
+              "p-105",
+              "p-106",
+              "p-109",
+              "p-124",
+              "p-125",
+              "p-126",
+              "p-127",
+              "p-128",
+              "p-129",
+              "p-132",
+              "p-133",
+              "p-134",
+              "p-135",
+              "p-136",
+              "p-137",
+              "p-138",
+              "p-139"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sayers: direct knowledge and handling; broader knowledge asserted partly by inference",
+        "reasoning": "**What he says he personally knew and recalls.** Sayers locates his first knowledge at Port Elizabeth and remembers numerous dressing-room conversations about reversing the ball and what would be used. He does not remember whose idea it was. He says he recalls Bancroft agreeing to act and explains Warner’s non-participation by camera attention; he does not supply a direct Warner quotation proving the origin of the plan.\n\n**His physical involvement.** He says sandpaper was handed to him to take off the field while he brought drinks. He assumes Bancroft passed it, rather than distinctly recalling the handover person, and cannot remember what he did with it afterwards. If accepted, his own admitted knowledge and handling are powerful evidence of an additional informed squad member.\n\n**Who else he identifies.** Bancroft and Warner appear in his account of the plan. He does not name a frontline bowler’s sandpaper acknowledgment or an individual coach’s instruction in this interview. Asked whether the frontline bowlers could have been unaware, he reasons that a reverse-swing effort requires everyone to buy in and concludes everyone knew. His confidence is broader than the named observations he supplies.",
+        "limit": "Sayers is not merely repeating Khawaja: he alleges personal knowledge and handling. But that is stronger proof about Sayers than about every other person. He does not recall discussion of the strategy’s success when asked, and believes use did not continue in that Port Elizabeth Test; Bancroft says it continued. Their agreement on onset and wider awareness is not agreement on duration or independent corroboration of Bancroft’s next-morning meeting.",
+        "refs": [
+          {
+            "source": "SP029",
+            "blocks": [
+              "p-007",
+              "p-008",
+              "p-009",
+              "p-010",
+              "p-011",
+              "p-012",
+              "p-013",
+              "p-014",
+              "p-015",
+              "p-016",
+              "p-017",
+              "p-018",
+              "p-019",
+              "p-020",
+              "p-021",
+              "p-022",
+              "p-023",
+              "p-025",
+              "p-026",
+              "p-027",
+              "p-028",
+              "p-029",
+              "p-030",
+              "p-031",
+              "p-032",
+              "p-033",
+              "p-034",
+              "p-035",
+              "p-078",
+              "p-079",
+              "p-080",
+              "p-096",
+              "p-097"
+            ]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-090", "p-099", "p-101"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "Cummins: an explicit personal denial, with an alternative reading of the feedback",
+        "reasoning": "**Against which allegation?** Bancroft names Cummins in feedback conversations at both Tests and says the bowlers knew the method. Khawaja’s group allegation includes him, but the captured Khawaja answers do not give a specific Cummins acknowledgment.\n\n**The captured response.** On November 13 Cummins says he did not know sandpaper was going onto the field and that the earlier Port Elizabeth episode was news to him. He also rejects being an architect of a sandpaper scheme. On the reported dressing-room demonstration, he has no recollection but expressly does not say it never happened. On the coach’s demand for more and a bowler’s instruction to stop further ball work, he lacks specific recollection but says such feedback could happen. He offers routine ball management as an explanation for swing-related language.\n\n**How it stacks up.** His knowledge denial directly conflicts with Bancroft’s asserted shared understanding. His alternative account does address the ambiguity of feedback about swing. It does not refute a correctly recalled open discussion naming sandpaper. Rejecting authorship of a scheme is also a stronger denial than rejecting mere awareness; proof of one would not automatically prove the other.\n\n**After Bancroft spoke.** In the [November 19 ABC report](https://www.abc.net.au/news/2026-11-19/pat-cummins-maintains-position-on-sandpapergate/107402100), Cummins’s manager Neil Maxwell reaffirms the unchanged position and says the earlier conference answered Bancroft’s allegations. That is a response after the statement, conveyed through his manager; it does not add a new detailed recollection of each disputed exchange.",
+        "limit": "The November 13 conference predates Bancroft’s November 18 statement. The later endorsement through Maxwell should not be omitted, but does not turn the earlier answers into a new passage-by-passage interview. His denial is participant testimony, not independent exoneration; qualified recollections must not be upgraded into categorical denials of events.",
+        "refs": [
+          {
+            "source": "SP025",
+            "blocks": ["p-007", "p-008", "p-009", "p-017", "p-018"]
+          },
+          {
+            "source": "SP069",
+            "blocks": [
+              "p-147",
+              "p-148",
+              "p-156",
+              "p-157",
+              "p-158",
+              "p-168",
+              "p-169",
+              "p-170",
+              "p-171",
+              "p-172",
+              "p-173",
+              "p-201",
+              "p-202",
+              "p-203",
+              "p-204"
+            ]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-078", "p-096", "p-101", "p-127", "p-128"]
+          }
+        ]
+      },
+      {
+        "title": "Starc, Hazlewood and Lyon: distinguish the named exchanges from the group denial",
+        "reasoning": "**Starc.** Bancroft names him in feedback exchanges at both Tests. Starc’s November 10 response reiterates that he did not know a substance was taken onto the field before the Cape Town screen footage. The same report says he knew nothing of the newly alleged Port Elizabeth use. The latter is reporter-attributed rather than a separately printed direct quotation. This is relevant beyond the Cape Town-only framing, although he also says he has not read the book.\n\n**Hazlewood.** Bancroft names him in the same exchanges. His captured denial is the joint 2021 statement, rather than a separate response to the detailed 2026 account.\n\n**Lyon.** He signed the 2021 statement, but is not one of the four fast bowlers Bancroft names in these feedback passages. The universal group allegation includes him; these passages do not narrate a Lyon-specific exchange.\n\n**The joint statement.** Cummins, Starc, Hazlewood and Lyon deny knowing a foreign substance had been taken onto the field until the big-screen images. The statement frames the dispute around Cape Town and does not separately discuss the newly alleged Port Elizabeth episode. That is a scope distinction, not proof of what they knew at Port Elizabeth.",
+        "limit": "The captured denials conflict with asserted prior knowledge but cannot settle it independently. Neither an older denial nor the absence of a newer individual reply resolves a specific later allegation. Mitchell Marsh is not a signatory. Do not put Greenberg’s separate remarks in the Starc article into Starc’s mouth.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-078", "p-127", "p-128", "p-134"]
+          },
+          {
+            "source": "SP018",
+            "blocks": ["p-004", "p-005", "p-006", "p-007", "p-008"]
+          },
+          {
+            "source": "SP052",
+            "blocks": [
+              "p-005",
+              "p-006",
+              "p-007",
+              "p-008",
+              "p-009",
+              "p-010",
+              "p-011",
+              "p-012",
+              "p-020"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Saker: the sharpest named coaching conflict",
+        "reasoning": "**The allegation.** Bancroft names Saker in the Port Elizabeth proposal discussion, in next-morning encouragement of acknowledged sandpaper use, and as the coach instructing him to do more at Cape Town. Khawaja’s captured book reports leave that coach unnamed.\n\n**The captured denial.** In June 2021 Saker expressly says he had no idea sandpaper was involved and understood the methods to be normal reverse-swing tactics.\n\n**How it stacks up.** This is a direct substantive conflict over Saker’s knowledge. Bancroft alleges informed involvement, not mere presence. The exact words reported from Khawaja’s book about doing more do not themselves name the material, so their context matters; Bancroft’s later assertion supplies the explicit sandpaper link.",
+        "limit": "The older Saker denial predates these specific allegations. His May 2021 broad-blame remarks do not concede sandpaper knowledge, and a full older conference would not automatically answer the later named account. No specific later Saker reply is captured here.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-050", "p-059", "p-101", "p-102", "p-126"]
+          },
+          {
+            "source": "SP055",
+            "blocks": ["p-012"]
+          },
+          {
+            "source": "SP069",
+            "blocks": ["p-156"]
+          },
+          {
+            "source": "SP074",
+            "blocks": ["p-006", "p-007", "p-008"]
+          },
+          {
+            "source": "SP064",
+            "blocks": ["p-005", "p-006", "p-007", "p-008", "p-009"]
+          }
+        ]
+      },
+      {
+        "title": "Lehmann: alleged presence versus a personal knowledge denial",
+        "reasoning": "**The allegation.** Bancroft places Lehmann in the Port Elizabeth sandpaper discussion, while qualifying what he can say about every word shared. He also attributes a radio instruction to Lehmann after the Cape Town exposure.\n\n**The captured denial.** ABC’s November 7 report says Lehmann denies personal sandpaper knowledge and rejects assuming the entire camp knew. His official 2018 resignation statement also expressly denies prior knowledge.\n\n**How it stacks up.** His presence as Bancroft recalls it gives a concrete reason to ask what he heard; it does not by itself establish hearing or understanding the proposal. The after-exposure radio story cannot establish pre-exposure knowledge without an additional link.\n\n**After the detailed statement.** The [November 19 ABC report](https://www.abc.net.au/news/2026-11-19/pat-cummins-maintains-position-on-sandpapergate/107402100) says Lehmann wanted time to process the allegations and work through them before commenting. That is not yet a substantive answer to each later particular.",
+        "limit": "His lack of recollection about a later collective-responsibility meeting is a different issue and is not a denial that every earlier conversation occurred. The November 7 response predates Bancroft’s detailed statement.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": [
+              "p-050",
+              "p-059",
+              "p-062",
+              "p-135",
+              "p-136",
+              "p-137",
+              "p-138",
+              "p-139"
+            ]
+          },
+          {
+            "source": "SP062",
+            "blocks": [
+              "p-006",
+              "p-008",
+              "p-009",
+              "p-010",
+              "p-013",
+              "p-015",
+              "p-016",
+              "p-017"
+            ]
+          },
+          {
+            "source": "SP068",
+            "blocks": ["p-009"]
+          }
+        ]
+      },
+      {
+        "title": "Hick: an explicit denial with no individual contrary episode in these accounts",
+        "reasoning": "**The allegation.** Khawaja’s universal staff wording includes Hick. None of the specific passages examined from Khawaja, Bancroft and Sayers names an instruction by Hick or a particular sandpaper conversation he heard. Bancroft’s general references to coaching staff do not supply an individual attendance record.\n\n**The captured denial.** Hick’s November 11 response says he did not hear or know of tampering discussions at Port Elizabeth or Cape Town and first learned of it from the screen footage while on the balcony.\n\n**How it stacks up.** If true, Hick’s account defeats a literal everyone-knew claim. It would not establish that only three knew, or disprove another coach’s participation. The present affirmative case against Hick is broad inclusion, rather than a matching named observation.",
+        "limit": "The archive has the four substantial quoted paragraphs in a published report, not a separate authored original or recording. The denial remains his account, not independently established fact.",
+        "refs": [
+          {
+            "source": "SP055",
+            "blocks": ["p-006"]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-046", "p-062", "p-101", "p-102"]
+          },
+          {
+            "source": "SP065",
+            "blocks": ["p-011", "p-012", "p-013", "p-014"]
+          }
+        ]
+      },
+      {
+        "title": "Paine: named feedback, but his older memoir is not a complete denial of the later particulars",
+        "reasoning": "**The allegation.** Bancroft names Paine as giving feedback from behind the stumps at Port Elizabeth and Cape Town, and places him beside Bancroft and Khawaja at Newlands.\n\n**The captured account.** Paine’s published 2022 memoir passages describe shock at the screen images, reject the inference that everyone in a dressing room must know everything, and deny a team meeting planning what to do to the ball. They also express regret that the team did not own the affair together and describe ordinary ball-management instructions.\n\n**How it stacks up.** The privacy and ball-management explanations challenge automatic knowledge from proximity or feedback. But shock at exposure is not logically identical to prior ignorance, and the quoted passages do not separately answer Bancroft’s later named exchanges. Regret about collective ownership is not an admission of sandpaper knowledge.",
+        "limit": "The 2022 excerpts predate the specific 2026 account. The denial of a planning meeting must not be stretched to cover every informal conversation, a different next-morning discussion or a post-exposure responsibility meeting. Sitting beside an exchange is not proof of hearing it.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-079", "p-125", "p-129"]
+          },
+          {
+            "source": "SP083",
+            "blocks": [
+              "p-005",
+              "p-006",
+              "p-009",
+              "p-010",
+              "p-011",
+              "p-012",
+              "p-014",
+              "p-016",
+              "p-017",
+              "p-018"
+            ]
+          },
+          {
+            "source": "SP082",
+            "blocks": ["p-014", "p-015", "p-016"]
+          }
+        ]
+      },
+      {
+        "title": "Marsh, Hutchison and Handscomb: three different limits on implication",
+        "reasoning": "**Mitchell Marsh.** Bancroft names him in feedback exchanges and jokes about swing. Marsh’s captured November 12 refusal to share his account is neither an admission nor a denial, predates Bancroft’s statement and does not answer those later particulars. He did not sign the four-bowler statement.\n\n**Kate Hutchison.** Bancroft alleges a specific objection to sandpaper at the day-three team discussion and a later conversation about the consequences of being caught. If accurate, that supports awareness and opposition, rather than complicity. Her own account is not captured. It would be a particularly useful test of whether the alleged open discussion happened.\n\n**Peter Handscomb.** Bancroft’s named account of his involvement is explicitly after exposure. It therefore does not, by itself, establish that Handscomb knew beforehand. The same timing limit applies to the radio instruction attributed to Lehmann.",
+        "limit": "Do not use refusal, missing testimony or post-exposure action to fill a pre-exposure knowledge gap. Do not conflate Mitchell with Shaun Marsh, or imply Hutchison approved what she is alleged to have opposed.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": [
+              "p-078",
+              "p-092",
+              "p-105",
+              "p-106",
+              "p-109",
+              "p-121",
+              "p-122",
+              "p-127",
+              "p-128",
+              "p-135",
+              "p-136",
+              "p-137",
+              "p-138",
+              "p-139"
+            ]
+          },
+          {
+            "source": "SP081",
+            "blocks": ["p-004", "p-008", "p-010", "p-011", "p-012"]
+          },
+          {
+            "source": "SP018",
+            "blocks": ["p-004", "p-005", "p-007"]
+          }
+        ]
+      },
+      {
+        "title": "The official finding and ball inspection do not resolve the person-by-person conflict",
+        "reasoning": "CA’s public finding confines prior knowledge of the Cape Town incident to Smith, Warner and Bancroft and assigns particular acts to them. It is an institutional account against wider knowledge, but its underlying report and interview evidence are not available here. The finding does not establish a person-by-person answer to the newly alleged Port Elizabeth events.\n\nThe ICC independently records that umpires saw no marks warranting a ball change, while still finding attempted alteration. This weakens the claim that every bowler must have noticed visible damage. It does not answer an allegation of a prior conversation about sandpaper, and it concerns the inspected Cape Town ball, not every earlier ball.\n\nSmith and Warner’s knowledge at Cape Town is already specified in the public charges; that is a baseline, not evidence that every additional person knew. Bancroft’s and Khawaja’s earlier Port Elizabeth scenes still need to be tested on their own evidence.",
+        "limit": "An institutional conclusion is not a substitute for the missing underlying evidence; nor does a later contradictory statement make every new detail true. The visible-condition argument and the private-conversation argument require different answers.",
+        "refs": [
+          {
+            "source": "SP005",
+            "blocks": ["p-002", "p-003", "p-009", "p-011", "p-014"]
+          },
+          {
+            "source": "SP003",
+            "blocks": ["p-009", "p-010"]
+          },
+          {
+            "source": "SP018",
+            "blocks": ["p-008"]
+          }
+        ]
+      }
+    ],
+    "assessment": "The captured record contains direct self-implication by Sayers, Khawaja’s broad assertion and reported observations, and Bancroft’s much more specific allegations against named people. That makes wider-than-three knowledge a materially stronger case than universal knowledge. The strongest test of broad disclosure is Bancroft’s alleged Port Elizabeth day-three discussion explicitly about sandpaper, not the assumption that bowlers must know. The sharpest named coaching conflict is Saker; the bowlers’ swing feedback still admits a competing interpretation. Hick is included by the universal allegation without a named contrary episode in these passages. The denials remain live, and the captured record does not establish every individual’s pre-exposure knowledge. None of this turns shared knowledge into identical participation or blame.",
+    "unresolved": [
+      "Who attended the alleged Port Elizabeth day-three discussion, what exact material was named, and what does each attendee independently recall? Hutchison’s own account could test both knowledge and objection.",
+      "For each named bowler and Paine, what words or circumstances establish that the feedback referred to sandpaper, rather than ordinary ball management? Bancroft asserts that link; which recollections independently confirm or contradict it?",
+      "What did Saker and Lehmann each hear or say, and is there a direct response to the specific later allegations rather than only an older general denial?",
+      "What specific observation places Hick or Lyon in an informed pre-exposure conversation? Broad inclusion and a roster are not individual evidence.",
+      "What do the complete Sabr chapter and reported 2018 notes actually say? Keep reporter summaries, opponent paraphrases and Ferguson’s premises distinct from Khawaja’s own detailed evidence.",
+      "How should the conflict about continued Port Elizabeth use affect confidence in the later recollections? Preserve Sayers’s qualifications rather than calling all three accounts identical.",
+      "Direct listening checks remain open. Published quotations are used here; no new exact-word or speaker-boundary certification is claimed."
+    ],
+    "related": ["prior-knowledge", "coaches-awareness"]
+  },
+  {
+    "slug": "khawaja/coach-encouragement",
+    "title": "A coach encouraged Bancroft to do more",
+    "proposition": "A coach encouraged Bancroft’s activity during the Cape Town Test, contributing to the exposed sandpaper use.",
+    "group": "Use and knowledge",
+    "kind": "Specific event and alleged informed encouragement",
+    "basis": {
+      "text": "The November 7 report says an exchange with an unnamed coach helped set events off. ABC later reports the book’s words about doing more. This establishes the initiating Khawaja allegation without silently naming the coach for him.",
+      "limit": "The complete chapter is absent. These are attributed book summaries or selected quotations, rather than a captured full first-person narration.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": ["p-012"]
+        },
+        {
+          "source": "SP069",
+          "blocks": ["p-156"]
+        },
+        {
+          "source": "SP065",
+          "blocks": ["p-010"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Bancroft later identifies Saker and the instruction",
+        "reasoning": "Bancroft expressly names Saker as the coach who told him to do more at Cape Town. He separately alleges praise from Saker at Port Elizabeth. His specific account supports the claimed exchange more directly than generic talk of a permissive culture.",
+        "limit": "The Port Elizabeth praise is a different event. The later testimony is retrospective and does not independently authenticate every word of Khawaja’s earlier account.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-101", "p-102", "p-124", "p-125", "p-126"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "The words require a link to sandpaper knowledge",
+        "reasoning": "An instruction to do more of whatever is making the ball swing could encourage activity without showing knowledge of the material. Saker’s explicit 2021 sandpaper-knowledge denial conflicts with informed encouragement if the instruction involved known sandpaper. His broad-blame comments do not concede that link.",
+        "limit": "The older denial predates the specific allegation. Cummins’s lack of recollection and Lehmann’s unawareness are not eyewitness refutations. Hick’s personal denial does not establish what another coach said.",
+        "refs": [
+          {
+            "source": "SP074",
+            "blocks": ["p-007", "p-008"]
+          },
+          {
+            "source": "SP064",
+            "blocks": ["p-005", "p-006", "p-007", "p-008", "p-009"]
+          },
+          {
+            "source": "SP069",
+            "blocks": ["p-157", "p-158", "p-159", "p-160"]
+          },
+          {
+            "source": "SP062",
+            "blocks": ["p-017"]
+          }
+        ]
+      }
+    ],
+    "assessment": "There is specific additional participant support for the exchange; the speaker’s knowledge and exact context remain decisive. General cultural responsibility, encouragement and knowing sandpaper instruction carry different burdens.",
+    "unresolved": [
+      "What did the coach understand Bancroft to be doing when speaking?",
+      "Who else heard the exchange, and what happened immediately before it?",
+      "Is there a direct response to this specific 2026 allegation? A full older conference is useful context, not automatically an answer."
+    ],
+    "related": ["coaches-awareness", "explanations-and-changes"]
+  },
+  {
+    "slug": "khawaja/smith-response",
+    "title": "Smith heard the earlier discussion and distanced himself",
+    "proposition": "At Port Elizabeth Smith heard the sandpaper discussion and distanced himself rather than stopping it.",
+    "group": "Use and knowledge",
+    "kind": "Specific knowledge, response and timing",
+    "basis": {
+      "text": "Brettig summarises the book as describing an open Port Elizabeth discussion and Smith signalling that he did not want to know.",
+      "limit": "This is reporter narration of the memoir, not a verbatim captured statement by Smith or the complete chapter.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": ["p-009", "p-010"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Bancroft recalls a similar response",
+        "reasoning": "Bancroft says Smith entered the conversation and distanced himself, and recalls a further similar response during the match. Separately, CA’s charges identify Smith’s knowledge of a potential plan and failure to prevent it at Cape Town.",
+        "limit": "The CA charge supports Cape Town knowledge and failure to prevent, not independent corroboration of the earlier Port Elizabeth date or remembered words.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-060", "p-094"]
+          },
+          {
+            "source": "SP005",
+            "blocks": ["p-009"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "Distancing does not settle either authorship or adequate intervention",
+        "reasoning": "The later accounts distinguish Smith’s response from the proposal and instructions attributed to Warner. Wanting no part in a plan need not mean authorising it, while a captain’s withdrawal need not discharge a duty to stop it.",
+        "limit": "This is a limit on the inference, not a captured denial that the earlier conversation occurred. The archive has no complete contemporary record of Smith’s Port Elizabeth response.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-049", "p-052", "p-053", "p-055", "p-060"]
+          },
+          {
+            "source": "SP005",
+            "blocks": ["p-009", "p-011"]
+          }
+        ]
+      }
+    ],
+    "assessment": "Cape Town knowledge and failure to prevent are specified in CA’s public charges. The earlier exchange has later participant support but remains unverified against a contemporary record. Neither operational authorship nor effective intervention follows from distancing alone.",
+    "unresolved": [
+      "What exactly did Smith hear, understand, say and do at Port Elizabeth?",
+      "Were any instructions to stop given or enforced?",
+      "Which parts of the alleged response concern Port Elizabeth, and which concern Cape Town?"
+    ],
+    "related": ["smith-role", "warner-role"]
+  },
+  {
+    "slug": "khawaja/press-conference",
+    "title": "Khawaja tried to delay the immediate press conference",
+    "proposition": "After the exposure, Khawaja urged Smith not to rush into the post-play press conference with Bancroft.",
+    "group": "Response and accountability",
+    "kind": "Ancillary factual recollection",
+    "basis": {
+      "text": "The original report attributes this intervention to Khawaja’s book.",
+      "limit": "The report’s view that the conference worsened the scandal is retrospective narration. The attempt to delay it and the predicted benefit of delay are separate claims.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": ["p-013"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Bancroft also recalls disagreement about speaking immediately",
+        "reasoning": "Bancroft remembers some people wanting to wait until the following day and Smith wanting to address the matter immediately. That is consistent with a disagreement about timing.",
+        "limit": "These passages do not identify Khawaja as the person urging delay. They corroborate the general disagreement rather than every part of his account.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-142", "p-143", "p-144", "p-145"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "The precise intervention and its benefit remain unverified",
+        "reasoning": "The captured accounts do not establish the exact alternative Khawaja proposed or show that a delay would have produced a more truthful or less damaging statement. Bancroft’s separate allegation about coordinating a false material explanation is an additional claim.",
+        "limit": "There is no captured named denial of Khawaja’s intervention. An absence of contemporary confirmation must not be presented as affirmative contrary testimony.",
+        "refs": [
+          {
+            "source": "SP055",
+            "blocks": ["p-013"]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-147", "p-148", "p-149", "p-150"]
+          }
+        ]
+      }
+    ],
+    "assessment": "Partly consistent later testimony supports a timing disagreement. Khawaja’s specific role has limited corroboration; any claim that waiting would have improved the outcome is counterfactual.",
+    "unresolved": [
+      "Who proposed waiting, and what did they propose saying instead?",
+      "Was the purpose to obtain facts, legal advice, a common account or something else?"
+    ],
+    "related": ["explanations-and-changes", "smith-role"]
+  },
+  {
+    "slug": "khawaja/collective-meeting",
+    "title": "Khawaja urged a shared response after exposure",
+    "proposition": "Khawaja advocated collective responsibility in a dressing-room meeting after the scandal became public.",
+    "group": "Response and accountability",
+    "kind": "Factual meeting and proposal",
+    "basis": {
+      "text": "In the original interview Khawaja recounts asking the team to take responsibility together after the game. His ABC answers reiterate that stance.",
+      "limit": "The existence and content of a proposal must be separated from whether it was right and whether it would have changed sanctions.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": ["p-014", "p-017", "p-018", "p-019"]
+        },
+        {
+          "source": "SP040",
+          "blocks": ["p-028", "p-036"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Other accounts recall discussions about the response",
+        "reasoning": "Sayers recalls a lengthy discussion after that day’s play and, when prompted, vaguely remembers resistance by two players. Bancroft describes a lengthy players-and-staff meeting after the match about the public response.",
+        "limit": "The after-day and after-match accounts may describe different meetings. Sayers does not name the objectors. Bancroft’s description does not independently establish every word of Khawaja’s proposal.",
+        "refs": [
+          {
+            "source": "SP029",
+            "blocks": ["p-043", "p-044", "p-049", "p-051"]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-155", "p-156", "p-157", "p-158"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "Cummins cannot recall the proposed collective response",
+        "reasoning": "Cummins says he does not remember a conversation about collective responsibility or Khawaja standing up to advocate it. Lehmann neither confirms nor denies the meeting, referring to multiple rooms and meetings and his contact with CA.",
+        "limit": "Failure to remember is weaker than a categorical denial. Paine’s 2022 denial of a prospective planning meeting concerns what the team would do to the ball, not necessarily a later meeting about responsibility.",
+        "refs": [
+          {
+            "source": "SP069",
+            "blocks": ["p-184", "p-185", "p-186", "p-187"]
+          },
+          {
+            "source": "SP062",
+            "blocks": ["p-012", "p-013", "p-015", "p-016"]
+          },
+          {
+            "source": "SP083",
+            "blocks": ["p-014"]
+          }
+        ]
+      }
+    ],
+    "assessment": "There is affirmative testimony for a proposal and partial support for response meetings, but the chronology, attendance and exact proposal remain unresolved. Neither general regret nor a denial about a different meeting settles this event.",
+    "unresolved": [
+      "Which meeting, on which day, is each witness recalling?",
+      "Was the proposal a common factual confession, a shared public statement, equal penalties or support for the three?",
+      "Who heard it, how did they respond, and is any contemporaneous record available?"
+    ],
+    "related": [
+      "sanctions-and-responsibility",
+      "investigation-and-accountability"
+    ]
+  },
+  {
+    "slug": "khawaja/incomplete-inquiry",
+    "title": "The investigation missed relevant witnesses",
+    "proposition": "The 2018 investigation was rushed or incomplete and failed to seek Khawaja’s relevant evidence.",
+    "group": "Response and accountability",
+    "kind": "Procedural fact and evaluation",
+    "basis": {
+      "text": "Khawaja says he was not interviewed despite sitting beside Bancroft. He calls the process insufficiently thorough and rushed. The original report also describes time pressure and a Cape Town focus.",
+      "limit": "His non-interview is a first-person factual claim; the quality of the whole investigation is a broader judgment. The reporter’s account of remit is not the underlying terms of reference.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": ["p-028", "p-029", "p-030", "p-031"]
+        },
+        {
+          "source": "SP040",
+          "blocks": ["p-038", "p-039"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Other relevant evidence may also have been missed or withheld",
+        "reasoning": "Sayers says he expected an interview and was not interviewed despite his own claimed involvement. Bancroft admits omitting material timing and knowledge information from the process. These are concrete reasons to question exhaustiveness.",
+        "limit": "They do not establish the full witness list or prove investigators knowingly suppressed evidence. Bancroft’s concealment could contribute to an incomplete result without institutional intent.",
+        "refs": [
+          {
+            "source": "SP029",
+            "blocks": ["p-058", "p-059", "p-061", "p-063"]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-009", "p-010", "p-011", "p-012", "p-013"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "CA describes a thorough process; other participants were interviewed",
+        "reasoning": "The public releases defend the investigation’s thoroughness. Cummins says he was interviewed and recalls requests for other information. Saker also describes participating. These accounts show an investigative process, rather than no inquiry.",
+        "limit": "They do not explain the alleged omissions or establish that every relevant witness was sought. An invitation to volunteer is not automatically sufficient investigation of an obvious witness.",
+        "refs": [
+          {
+            "source": "SP004",
+            "blocks": ["p-004", "p-005"]
+          },
+          {
+            "source": "SP005",
+            "blocks": ["p-029", "p-030"]
+          },
+          {
+            "source": "SP069",
+            "blocks": ["p-179", "p-180", "p-181", "p-182", "p-183"]
+          },
+          {
+            "source": "SP074",
+            "blocks": ["p-006", "p-008"]
+          }
+        ]
+      }
+    ],
+    "assessment": "The claimed non-interviews raise a substantial procedural question. The completeness judgment cannot be settled from public assurances or later recollections alone; remit, witness selection and treatment of conflicting evidence matter.",
+    "unresolved": [
+      "What were the exact remit, witness list, interview questions and evidentiary standards?",
+      "Why were Khawaja and Sayers allegedly not approached?",
+      "What opportunities to volunteer evidence existed, and what was actually supplied?"
+    ],
+    "related": ["investigation-and-accountability", "prior-knowledge"]
+  },
+  {
+    "slug": "khawaja/deliberate-exclusion",
+    "title": "Khawaja alleges deliberate exclusion from the inquiry",
+    "proposition": "Khawaja was deliberately not interviewed because investigators knew he wanted collective responsibility and would tell the truth.",
+    "group": "Response and accountability",
+    "kind": "Intent and causal motive, expressed as belief",
+    "basis": {
+      "text": "In the original November 7 interview Khawaja explicitly says he feels this was why he was not interviewed. The later ABC answer stops short of calling the process a cover-up and describes it as rushed.",
+      "limit": "Both statements belong in the record. The later qualification must not erase the stronger original motive allegation; the original belief must not become an established finding.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": ["p-030", "p-031"]
+        },
+        {
+          "source": "SP040",
+          "blocks": ["p-038", "p-039"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "His claimed proximity, stance and omission make the suspicion concrete",
+        "reasoning": "Khawaja says he sat beside Bancroft, advocated a shared response and waited for an interview that never came. Sayers alleges another potentially relevant non-interview. Those facts, if accepted, are compatible with selective avoidance.",
+        "limit": "Compatibility is not proof of motive. No cited witness supplies investigator communications explaining a decision to avoid inconvenient testimony.",
+        "refs": [
+          {
+            "source": "SP055",
+            "blocks": ["p-018", "p-030", "p-031"]
+          },
+          {
+            "source": "SP029",
+            "blocks": ["p-059", "p-061", "p-063"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "The record does not discriminate between deliberate avoidance and other explanations",
+        "reasoning": "Haste, a narrow remit, reliance on incomplete answers or poor witness selection could also produce omissions. Bancroft admits withholding facts. Khawaja’s later cover-up qualification itself limits how firmly he puts the intentional-concealment case.",
+        "limit": "These alternatives are possible explanations, not established excuses. CA’s general assurances do not independently resolve intent either. Sayers’s speculation about reasons cannot supply the missing investigator evidence.",
+        "refs": [
+          {
+            "source": "SP055",
+            "blocks": ["p-028"]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-009", "p-010", "p-011", "p-012", "p-013"]
+          },
+          {
+            "source": "SP040",
+            "blocks": ["p-039"]
+          },
+          {
+            "source": "SP029",
+            "blocks": ["p-065", "p-066"]
+          }
+        ]
+      }
+    ],
+    "assessment": "This serious intentional-act allegation has much thinner support than the non-interview claim. The archive has circumstantial suspicion, not evidence establishing why investigators selected or omitted witnesses.",
+    "unresolved": [
+      "Who selected witnesses, and what did they know of Khawaja’s stance?",
+      "Is there a contemporary record explaining why he was not interviewed?",
+      "What evidence would distinguish a flawed or hurried inquiry from deliberate avoidance?"
+    ],
+    "related": ["investigation-and-accountability"]
+  },
+  {
+    "slug": "khawaja/shared-accountability",
+    "title": "The group should have shared accountability",
+    "proposition": "The team and institution should have shared accountability instead of leaving the central burden on three players.",
+    "group": "Response and accountability",
+    "kind": "Moral and institutional responsibility",
+    "basis": {
+      "text": "Khawaja frames his intervention as justice for the sanctioned three and says the team should have owned what happened together.",
+      "limit": "This is a moral claim with factual premises. Wider cultural responsibility, knowing participation, equal blame and equal sanctions are different propositions.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": [
+            "p-017",
+            "p-018",
+            "p-019",
+            "p-020",
+            "p-021",
+            "p-022",
+            "p-023",
+            "p-024",
+            "p-044",
+            "p-046"
+          ]
+        },
+        {
+          "source": "SP040",
+          "blocks": ["p-005", "p-010", "p-026", "p-027", "p-028", "p-032"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Wider participation and institutional culture support a wider response",
+        "reasoning": "If more people knowingly participated, a three-person factual account is incomplete. Separately, the Ethics Centre assigns responsibility for cultural failure to CA; Lehmann accepts responsibility for team culture while denying prior knowledge. Paine later regrets the team’s limited support and wonders whether joint ownership would have helped.",
+        "limit": "The cultural review is not a reinvestigation proving every person knew about sandpaper. Shared moral regret does not prove a specific meeting or instruction occurred.",
+        "refs": [
+          {
+            "source": "SP014",
+            "blocks": ["pdf-page-005", "pdf-page-007"]
+          },
+          {
+            "source": "SP068",
+            "blocks": ["p-009", "p-012", "p-013", "p-014"]
+          },
+          {
+            "source": "SP083",
+            "blocks": ["p-005", "p-006", "p-020", "p-026"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "Specific individual acts still warrant differentiated responsibility",
+        "reasoning": "CA differentiates Smith’s knowledge and failure to prevent, Warner’s development and instructions, and Bancroft’s implementation and concealment. A common benefit or failed culture does not erase those acts. Nor were the three the only people to face any consequence: Lehmann resigned and CA underwent a cultural review.",
+        "limit": "Those wider consequences do not settle their adequacy or whether the three bore a disproportionate burden. Khawaja does not demand identical bans; the moral remedy needs to be specified.",
+        "refs": [
+          {
+            "source": "SP005",
+            "blocks": ["p-009", "p-011", "p-014"]
+          },
+          {
+            "source": "SP068",
+            "blocks": ["p-012", "p-013", "p-014"]
+          },
+          {
+            "source": "SP014",
+            "blocks": ["pdf-page-002"]
+          },
+          {
+            "source": "SP040",
+            "blocks": ["p-033", "p-034", "p-035", "p-036", "p-037"]
+          }
+        ]
+      }
+    ],
+    "assessment": "Broader cultural responsibility has substantial institutional and participant support. What justice required beyond it remains a reasoned moral judgment: acknowledgement, differentiated sanctions, institutional change and personal support need separate consideration.",
+    "unresolved": [
+      "What should a shared account have admitted about each person’s conduct?",
+      "What form of responsibility is sought: public acknowledgement, sanction, institutional reform or support?",
+      "How should responsibility reflect knowledge, power, action and opportunity to intervene?"
+    ],
+    "related": ["sanctions-and-responsibility", "bancroft-agency"]
+  },
+  {
+    "slug": "khawaja/alternative-sanctions",
+    "title": "A shared response would have changed the bans",
+    "proposition": "If the team had owned the incident together, the whole team would not have been banned and the three would not have borne the same sanctions alone.",
+    "group": "Response and accountability",
+    "kind": "Counterfactual prediction and proportionality",
+    "basis": {
+      "text": "Khawaja says the three bans were inappropriate and he does not believe the whole team would have been banned had they gone in together, reasoning that banning an entire team would be difficult.",
+      "limit": "This is his predicted alternative, not a historical decision. It is not a demand for identical punishment for everyone.",
+      "refs": [
+        {
+          "source": "SP040",
+          "blocks": ["p-033", "p-034", "p-035", "p-036", "p-037"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Other participants question the severity and value of individualising the response",
+        "reasoning": "Paine thinks collective ownership might have worked out better for the three. Cummins regards their punishment as excessive. The ICC sanctions were substantially lower than CA’s, providing a concrete proportionality comparison.",
+        "limit": "The ICC and CA applied different codes and remits. Agreement that sanctions were excessive does not establish what CA would have done after a different admission.",
+        "refs": [
+          {
+            "source": "SP083",
+            "blocks": ["p-005", "p-006"]
+          },
+          {
+            "source": "SP069",
+            "blocks": ["p-139", "p-140", "p-141"]
+          },
+          {
+            "source": "SP003",
+            "blocks": ["p-001", "p-002", "p-006", "p-007"]
+          },
+          {
+            "source": "SP005",
+            "blocks": ["p-018"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "No alternative decision or controlling reason establishes the predicted outcome",
+        "reasoning": "CA justified sanctions by integrity and reputational harm. A shared statement could have widened exposure, changed the evidence or left the individual charges intact. The archive contains no alternative disciplinary ruling showing that team ownership would prevent or reduce bans.",
+        "limit": "That makes the prediction untested, not impossible. The specific admissions, applicable powers and complete reasons would be needed to assess it properly.",
+        "refs": [
+          {
+            "source": "SP005",
+            "blocks": [
+              "p-009",
+              "p-011",
+              "p-014",
+              "p-016",
+              "p-025",
+              "p-026",
+              "p-027",
+              "p-028",
+              "p-029",
+              "p-030"
+            ]
+          }
+        ]
+      }
+    ],
+    "assessment": "A plausible but untested counterfactual. The proportionality dispute has concrete comparative material; the prediction about a whole-team response is materially less established.",
+    "unresolved": [
+      "What exactly would a joint statement have admitted?",
+      "Under the applicable 2018 codes, who could be charged for which conduct?",
+      "Would collective ownership have altered evidence, penalties, public support or all three?"
+    ],
+    "related": [
+      "sanctions-and-responsibility",
+      "investigation-and-accountability"
+    ]
+  },
+  {
+    "slug": "khawaja/culture",
+    "title": "Ball manipulation and a win-at-all-costs culture preceded the scandal",
+    "proposition": "Ball manipulation was normalised in Khawaja’s Australian teams and competitive pressure helped create the conditions for sandpaper use.",
+    "group": "Related claims",
+    "kind": "Historical generalisation and causal explanation",
+    "basis": {
+      "text": "Khawaja describes earlier ball-working methods and says sandpaper was new on that South African tour. Brettig summarises the book’s account of competitive pressure. Khawaja also reports what he heard about South Africa from another player.",
+      "limit": "The other-team claim is hearsay. His experience of Australian teams is not knowledge of every team everywhere. His characterisation of methods as prohibited is not an independent historical rules ruling.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": ["p-025", "p-026", "p-027"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Several accounts and the cultural review support a broader problem",
+        "reasoning": "Paine’s 2022 interview describes widespread tampering and excessive competitive culture. Lehmann discusses broad ball-tampering practices while distinguishing individual knowledge. The Ethics Centre identifies institutional cultural failures.",
+        "limit": "Convergence about culture does not prove the same incident, method, legality or individual awareness. It can explain conditions without excusing deliberate acts.",
+        "refs": [
+          {
+            "source": "SP082",
+            "blocks": [
+              "p-003",
+              "p-004",
+              "p-005",
+              "p-020",
+              "p-021",
+              "p-022",
+              "p-023",
+              "p-024"
+            ]
+          },
+          {
+            "source": "SP062",
+            "blocks": ["p-007", "p-008", "p-009", "p-010", "p-011"]
+          },
+          {
+            "source": "SP014",
+            "blocks": ["pdf-page-005", "pdf-page-007"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "Permitted management and prohibited alteration must not be collapsed",
+        "reasoning": "Cummins describes the team’s intended methods as legal; Saker denies condoning cheating. Those positions require examining the actual method and governing rules rather than assuming all work on a ball is equivalent.",
+        "limit": "They do not establish that every method was lawful or disprove a specific illegal act. The disputed automatic legal/illegal wording remains open; this analysis uses the published report and makes no new ruling under 2018 law.",
+        "refs": [
+          {
+            "source": "SP025",
+            "blocks": ["p-017", "p-018"]
+          },
+          {
+            "source": "SP075",
+            "blocks": ["p-010", "p-011"]
+          }
+        ]
+      }
+    ],
+    "assessment": "There is substantial convergence on a broader cultural problem. The legality and causal role of each practice still require event-specific evidence and the applicable historical rule. Culture alone cannot decide who knew of sandpaper.",
+    "unresolved": [
+      "Which practices occurred, when, and under which exact rule?",
+      "How did competitive pressure affect specific decisions rather than merely accompany them?",
+      "What distinguishes tolerated methods, concealed violations and the sandpaper escalation?"
+    ],
+    "related": ["sanctions-and-responsibility", "coaches-awareness"]
+  },
+  {
+    "slug": "khawaja/bancroft-harm",
+    "title": "The scandal still hangs over Bancroft",
+    "proposition": "Bancroft continues to carry career and reputational harm despite strong domestic performances.",
+    "group": "Related claims",
+    "kind": "Continuing harm; distinct from a proven selection veto",
+    "basis": {
+      "text": "Khawaja says Bancroft has not regained his place despite scoring runs and that the scandal hangs over him. He presents this as part of the injustice to the three.",
+      "limit": "This does not itself allege a specific bowler veto or establish a causal explanation for every selection decision.",
+      "refs": [
+        {
+          "source": "SP055",
+          "blocks": ["p-021", "p-022", "p-023", "p-024"]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "Bancroft describes continuing concern, and selectors acknowledge his runs",
+        "reasoning": "Bancroft’s later account expresses concern about dressing-room tensions and missed opportunities. Bailey’s account acknowledges excellent Shield performance and a difficult 2024 selection decision. This makes Khawaja’s concern concrete rather than resting on no sporting case.",
+        "limit": "Bancroft’s selection suspicions are his later account, not a more specific allegation that can silently be attributed to Khawaja. Strong output alone cannot identify a selector’s motive.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-176", "p-177", "p-178", "p-179", "p-180", "p-181"]
+          },
+          {
+            "source": "SP061",
+            "blocks": ["p-020", "p-025", "p-026", "p-027"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "The 2024 selector gives competing cricketing reasons",
+        "reasoning": "Bailey denies a political or bowler veto and explains the preference for Green in the best six, Smith opening and Renshaw next in line. Bancroft himself acknowledges poor-form periods and competing candidates.",
+        "limit": "This is the selector’s stated account, not an independent audit; it addresses a particular selection window, not every later opportunity or the full extent of stigma.",
+        "refs": [
+          {
+            "source": "SP061",
+            "blocks": [
+              "p-014",
+              "p-015",
+              "p-016",
+              "p-017",
+              "p-020",
+              "p-025",
+              "p-026",
+              "p-027"
+            ]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-176", "p-177", "p-178", "p-179"]
+          }
+        ]
+      }
+    ],
+    "assessment": "Continuing stigma has firsthand support. A stronger claim that the scandal caused a particular non-selection remains decision-specific and weakly established by runs or suspicion alone.",
+    "unresolved": [
+      "Which selection window and role are being challenged?",
+      "What were the alternatives, fitness considerations and contemporaneous reasons?",
+      "What evidence could separate reputational stigma from a causal selection exclusion?"
+    ],
+    "related": ["selection-and-scandal"]
+  },
+  {
+    "slug": "khawaja/race-and-captaincy",
+    "title": "Khawaja describes exclusion and possible racial bias",
+    "proposition": "Khawaja felt stereotypes and race affected his opportunities and belonging, while qualifying the claim about a particular captaincy decision.",
+    "group": "Related claims",
+    "kind": "Lived experience and qualified causal suspicion",
+    "basis": {
+      "text": "Ferguson introduces a categorical race explanation for the captaincy decision. Khawaja says he has no concrete evidence, describes how he felt, says he cannot be certain and does not necessarily attribute that particular decision to race. He also says Paine proved a good choice.",
+      "limit": "The interviewer’s premise must not be turned into Khawaja’s unqualified factual allegation. His broader experience and the causal explanation of one decision require different evidence.",
+      "refs": [
+        {
+          "source": "SP040",
+          "blocks": [
+            "p-049",
+            "p-050",
+            "p-051",
+            "p-052",
+            "p-053",
+            "p-054",
+            "p-055",
+            "p-056"
+          ]
+        }
+      ]
+    },
+    "supporting": [
+      {
+        "title": "His testimony supports the reported experience",
+        "reasoning": "Khawaja describes recurring stereotypes about laziness, fitting in and effort, and says he first felt fully part of the team during the 2022 Ashes celebration. That is direct testimony about his experience and the meaning he gives it.",
+        "limit": "Testimony to an experience does not independently establish the motives of the people making a particular appointment. No decision-maker document is captured here supporting a race-based veto.",
+        "refs": [
+          {
+            "source": "SP040",
+            "blocks": ["p-055", "p-056", "p-057", "p-058", "p-059"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "His own qualifications limit the particular causal claim",
+        "reasoning": "Khawaja explicitly acknowledges uncertainty and lack of concrete evidence, and retrospectively endorses Paine’s appointment. Cummins rejects a categorical racial restriction on captaincy.",
+        "limit": "Neither a general rejection of racism nor a good eventual appointment disproves a specific past bias. These limits do not refute Khawaja’s reported feelings or wider experience.",
+        "refs": [
+          {
+            "source": "SP040",
+            "blocks": ["p-050", "p-051", "p-052", "p-053", "p-055", "p-056"]
+          },
+          {
+            "source": "SP069",
+            "blocks": [
+              "p-110",
+              "p-111",
+              "p-112",
+              "p-113",
+              "p-114",
+              "p-115",
+              "p-164",
+              "p-165",
+              "p-166"
+            ]
+          }
+        ]
+      }
+    ],
+    "assessment": "The interview establishes what Khawaja says he felt and the qualifications he makes. It does not establish discriminatory causation in the particular appointment. This question should remain separate from evidence about sandpaper knowledge.",
+    "unresolved": [
+      "If pursued, what is the appointment’s decision history and who made the decision?",
+      "What evidence bears on those decision-makers’ reasons?",
+      "Which broader experiences does Khawaja distinguish from that particular decision?"
+    ],
+    "related": []
+  }
+]

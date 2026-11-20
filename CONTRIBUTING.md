@@ -1,6 +1,6 @@
 # Contributing
 
-Open a pull request to `main` from your fork. All changes require approval from @callumflack and passing checks. Do not merge or push directly to main.
+Open a pull request to `main` from your fork. Contributor changes require approval from @callumflack and passing checks. Contributors must not merge or push directly to main. Callum retains owner/admin access to push his own changes directly.
 
 For a source or factual correction, identify the claim and exact source/paragraph ID, link the original publisher, supply the relevant date and explain what changes. Distinguish direct quotations, publisher framing, later recollection and inference. A refusal to answer is neither a denial nor an admission. Sharing responsibility does not necessarily admit prior knowledge.
 

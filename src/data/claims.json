@@ -7,6 +7,21 @@
     "kind": "Factual dispute",
     "supporting": [
       {
+        "title": "Khawaja’s original report alleges the earlier start",
+        "reasoning": "The November 7 report attributes Port Elizabeth discussion and use to Khawaja’s book; he later stands by what he saw and the conversations he had there. This is the initiating allegation, distinct from Bancroft’s later details.",
+        "limit": "The newspaper’s event sequence is reporter narration of the memoir, not the acquired chapter. The reported 2018 notes are not captured or authenticated.",
+        "refs": [
+          {
+            "source": "SP055",
+            "blocks": ["p-005", "p-008", "p-009", "p-010", "p-011"]
+          },
+          {
+            "source": "SP040",
+            "blocks": ["p-007"]
+          }
+        ]
+      },
+      {
         "title": "Bancroft supplies a first-person account of using it",
         "reasoning": "Bancroft describes taking sandpaper onto the field after tea on day two and using it when he collected the ball. He describes repeated use and feedback during the session. If accurate, this directly supports earlier use rather than merely a plan.",
         "limit": "This is a 2026 recollection. Bancroft says his 2018 account omitted when the practice began; contemporary corroboration is still needed.",
@@ -184,8 +199,8 @@
         ]
       },
       {
-        "title": "Khawaja declines to confirm named bowlers’ knowledge",
-        "reasoning": "In the full ABC interview, Ferguson repeatedly asks about named bowlers and specifically Cummins. Khawaja declines to answer and says he deliberately avoided names, while advocating collective accountability. The interview therefore cannot be presented as a specific factual confirmation that each named bowler knew.",
+        "title": "Scope limit: Khawaja declines to confirm named bowlers’ knowledge",
+        "reasoning": "In the full ABC interview, Ferguson repeatedly asks about named bowlers and specifically Cummins. Khawaja declines to answer and says he deliberately avoided names, while advocating collective accountability. The interview therefore cannot be presented as a specific factual confirmation that each named bowler knew. This limits the specificity of the evidence; it is not affirmative testimony against the claim.",
         "limit": "Declining to answer is not a retraction or proof of ignorance. The complete memoir chapter is still needed to assess the factual observations he asks readers to consider.",
         "refs": [
           {
@@ -254,6 +269,21 @@
     "scope": "Presence at a discussion, knowing of the plan, encouraging it and learning of it after the television exposure are different propositions. A claim about one coach does not establish the knowledge of all staff.",
     "kind": "Factual dispute",
     "supporting": [
+      {
+        "title": "Khawaja’s account alleges an exchange with an unnamed coach",
+        "reasoning": "Brettig’s book summary says a coaching exchange helped set off the Cape Town events. ABC later reports the book’s selected words asking Bancroft to do more. Bancroft’s later statement names Saker; that identification must not be put into Khawaja’s mouth.",
+        "limit": "The complete chapter is missing. An instruction to do more is not by itself proof that the speaker knew sandpaper was involved; its context must supply that link.",
+        "refs": [
+          {
+            "source": "SP055",
+            "blocks": ["p-012"]
+          },
+          {
+            "source": "SP069",
+            "blocks": ["p-156"]
+          }
+        ]
+      },
       {
         "title": "Bancroft identifies a coach and a specific instruction",
         "reasoning": "He identifies Saker as the coach who told him to do more during the Cape Town innings and recalls playing and coaching staff acknowledging his work at Port Elizabeth. These are allegations of prior encouragement, not merely awareness afterwards.",
@@ -370,7 +400,7 @@
       }
     ],
     "unresolved": [
-      "Obtain the complete underlying Saker conference and full original Hick response, plus Hutchison and Handscomb accounts where available. Hick’s published paragraphs do not establish whether he responded in writing or orally. Lehmann’s full ABC episode and official2018 materials are collected; exact speech remains unverified.",
+      "Seek direct responses to the specific 2026 instructions where a real public source lead exists. The complete older Saker conference and Hick original are conditional context gaps, not automatic blockers; a longer Hick response is not assumed. Fuller Hutchison or Handscomb accounts matter if they test a specified conversation. Lehmann’s collected recordings still require exact-word listening verification.",
       "What did each person hear before the cameras exposed the incident?",
       "Do contemporary staff communications, audio or investigation records corroborate the alleged instructions?"
     ],
@@ -423,8 +453,8 @@
     ],
     "challenging": [
       {
-        "title": "Bancroft describes wider participation and agreement",
-        "reasoning": "He recalls people agreeing, others offering views on when to act, and playing and coaching staff later acknowledging his role. If accurate, the organisational setting involved more than a private instruction between two players.",
+        "title": "Scope limit: wider participation does not refute Warner’s initiating role",
+        "reasoning": "He recalls people agreeing, others offering views on when to act, and playing and coaching staff later acknowledging his role. If accurate, the organisational setting involved more than a private instruction between two players. This challenges exclusivity, not the proposition that Warner was a principal initiator.",
         "limit": "Participation in discussion and collective benefit must still be distinguished from authorship of the plan, express approval and knowledge in each case.",
         "refs": [
           {
@@ -434,7 +464,7 @@
         ]
       },
       {
-        "title": "Sayers does not recall who first proposed it",
+        "title": "Corroboration limit: Sayers does not recall the origin",
         "reasoning": "Sayers remembers discussion and Bancroft agreeing to act, but explicitly says he does not remember whose idea it was initially. His account cannot independently confirm the origin of the proposal.",
         "limit": "Failure to remember an origin is not positive evidence that Warner did not propose it. It limits corroboration rather than refuting the specific allegation.",
         "refs": [
@@ -447,7 +477,7 @@
       {
         "title": "Erskine alleges wider instructions and protection of others",
         "reasoning": "Warner’s manager says more than three were involved, says he advised Warner to protect colleagues, and alleges earlier instructions by executives in Hobart. These claims raise a possible institutional context beyond a single player’s initiative.",
-        "limit": "These remain a manager’s allegations, with no established basis that he witnessed the Hobart exchange. The executives are unnamed and a 2016 allegation does not itself establish a 2018 sandpaper instruction. Full audio and an automatic draft are now collected; the bowlers commentary after the guest farewell belongs to the host, not Erskine.",
+        "limit": "These remain a manager’s allegations, with no established basis that he witnessed the Hobart exchange. The executives are unnamed and a 2016 allegation does not itself establish a 2018 sandpaper instruction. Full audio and an automatic draft are now collected; the bowlers commentary after the guest farewell belongs to the host, not Erskine. Wider instructions would not themselves disprove Warner’s own initiating role.",
         "refs": [
           {
             "source": "SP050",
@@ -744,10 +774,14 @@
         ]
       },
       {
-        "title": "Khawaja also questions whether relevant evidence was sought",
-        "reasoning": "In the full ABC interview he says he was not investigated despite sitting next to Bancroft and describes the process as rushed. He stops short of asserting a cover-up. This supports a question about investigation completeness while preserving his own qualification.",
-        "limit": "The interview does not establish the complete witness list or why particular people were not interviewed. The archive still lacks the underlying investigation record.",
+        "title": "Khawaja alleges both an omission and a reason for it",
+        "reasoning": "Khawaja’s original November 7 interview says he was not interviewed despite sitting beside Bancroft and explicitly alleges, as his belief, that investigators knew he wanted collective responsibility and would tell the truth. His later ABC answer describes a rushed process and stops short of calling it a cover-up. Both accounts must be preserved; non-interview, adequacy and intent are separate claims.",
+        "limit": "The claimed omission raises a procedural question but does not establish investigator motive. No captured witness-selection record explains the decision. The stronger original allegation must not be erased by the later qualification or presented as proven by the omission.",
         "refs": [
+          {
+            "source": "SP055",
+            "blocks": ["p-028", "p-029", "p-030", "p-031"]
+          },
           {
             "source": "SP040",
             "blocks": ["p-038", "p-039"]
