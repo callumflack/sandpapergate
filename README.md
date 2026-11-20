@@ -4,7 +4,7 @@
 
 A public source catalogue and argument map for the 2018 South Africa tour and subsequent accounts. Claims, responses and unresolved questions are distinguished; there is no prescribed verdict.
 
-The public edition contains original archive analysis, source metadata and citation locators. Full downloaded publisher articles, memoir excerpts, PDFs, recordings and automatic transcripts are not included. Follow original publisher links to read underlying sources. Collection/completeness labels describe the private research capture, not a full-text copy on this site. Missing source and listening checks remain visible.
+The public edition contains original archive analysis, source metadata and citation locators. SP024 includes the full ABC 7.30 interview transcript supplied for publication. Other downloaded publisher articles, memoir excerpts, PDFs, recordings and automatic transcripts remain private. Follow original publisher links for those sources. Collection/completeness labels describe the research capture; missing source and listening checks remain visible.
 
 ## Local development
 

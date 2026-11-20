@@ -1468,7 +1468,7 @@
       "edition_check": null,
       "coverage": "ABC broadcaster-supplied transcript for 12m01 interview; not independently compared with recording.",
       "verification_limitations": "ABC broadcaster-supplied transcript for 12m01 interview; not independently compared with recording.",
-      "remaining_work": "Locate complete interview and transcript; do not label clip complete",
+      "remaining_work": "Independently compare the publisher transcript with the complete interview recording.",
       "paragraph_count": 63,
       "text_sha256": "2428f505f96ee9036f9e15e54c80f7effd6dca1ad434c9e0c836e75dd26bf030",
       "raw_sha256": "92dffb89e10fdc3c459f446cd875a3c1f0612829ea1f35e7c84369ef2aac266a",
@@ -1549,7 +1549,7 @@
         "/documents/sp024-khawaja-abc-7-30-interview/#p-063"
       ],
       "publication_status": "public-reference-edition",
-      "source_text_published": false
+      "source_text_published": true
     },
     {
       "id": "SP025",
@@ -5880,5 +5880,5 @@
       "source_text_published": false
     }
   ],
-  "source_text_policy": "Original archive analysis and source metadata; publisher text and recordings are not republished. Follow publisher links. Paragraph IDs refer to the private captured edition."
+  "source_text_policy": "Original archive analysis, source metadata and citation locators. SP024 includes the full publisher transcript supplied for publication; other captured source text and recordings remain private. Follow publisher links for originals."
 }
