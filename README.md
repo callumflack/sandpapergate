@@ -30,4 +30,4 @@ The public MDX pages in `src/content/docs` are editable source, not regenerated 
 
 ## Hosting
 
-GitHub Actions checks every PR. PR checks have read-only repository access and do not deploy or receive publication credentials. The initial Cloudflare release is a direct upload of the checked build. Changes to `main` do not automatically deploy yet. Build and verify the protected main revision, then upload `dist` through Cloudflare or use its Wrangler configuration with your own authorised Cloudflare session.
+GitHub Actions checks every PR and push to `main`. After the checks pass on `main`, the deployment job publishes that same verified build to the existing `sandpapergate` Cloudflare Worker. Deployments run one at a time, and an older build is skipped if `main` has moved. The `production` environment supplies the Worker-scoped credential to the deployment job.
