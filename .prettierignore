@@ -1,0 +1,17 @@
+node_modules
+dist
+.astro
+.nimbus
+research
+artifacts
+src/components/ui
+src/content/docs
+package-lock.json
+nimbus.json
+AGENT.md
+CLAUDE.md
+
+# Generated from the source register
+public/sources.json
+
+public/claims.json

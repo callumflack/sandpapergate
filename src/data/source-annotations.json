@@ -1,0 +1,30 @@
+{
+  "SP005": {
+    "p-012": {
+      "kind": "publisher_insert",
+      "note": "Publisher video promotion inserted within the reproduced release, not part of the CA statement. Initial captured text and paragraph ID retained."
+    }
+  },
+  "SP028": {
+    "p-057": {
+      "kind": "transcript_warning",
+      "note": "Meaning-changing transcription disagreement at Fox1:58: frozen captions and a focused local pass read “very illegal”, while the full local pass and longer SEN transcript read “very legal”. The official CA report SP025p-018 publishes “very legal”. Use that publisher quotation for the argument; automatic output is context-sensitive and does not settle the exact heard word. Original caption text and ID remain unchanged."
+    },
+    "p-246": {
+      "kind": "speaker_warning",
+      "note": "This “absolute proof” wording is part of the panel interviewer’s question at approximately 7:35–7:41, followed by Warner’s answer. It is not an affirmative claim of proof by Warner. Speaker boundary is inferred from the question/answer sequence and local ASR; the automatic caption does not diarise speakers."
+    }
+  },
+  "SP010": {
+    "p-001": {
+      "kind": "completeness_warning",
+      "note": "This published transcript starts approximately 1:17 into the spoken statement. The opening, including Lehmann’s personal denial of prior knowledge and acceptance of ultimate responsibility for team culture, was omitted by this publication. It is now available in the official CA report SP068 p-006–p-014 and video SP067. The captured wording and IDs here are unchanged."
+    }
+  },
+  "SP083": {
+    "p-002": {
+      "kind": "publisher_error",
+      "note": "This report groups all three suspensions as one year. CA’s sanctions release SP005 p-018 specifies 12 months for Smith and Warner and nine months for Bancroft. Original publisher wording and paragraph ID are preserved."
+    }
+  }
+}

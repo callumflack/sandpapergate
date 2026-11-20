@@ -1,0 +1,128 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+import { SearchTrigger } from "@/components/ui/search";
+import type { DocsPageProps } from "@cloudflare/nimbus-docs/types";
+
+type Props = DocsPageProps & { audience?: "human" };
+const {
+  title,
+  description,
+  markdownUrl,
+  collection,
+  entryId,
+  socialImage,
+  lastUpdated,
+} = Astro.props;
+const path = Astro.url.pathname;
+const isHome = path === "/";
+const sections = [
+  ["Documents", "/documents/"],
+  ["People", "/people/"],
+  ["Timeline", "/timeline/"],
+  ["Questions", "/questions/"],
+  ["Glossary", "/glossary/"],
+  ["About", "/about/"],
+];
+const section = sections.find(([, href]) => path.startsWith(href));
+---
+
+<BaseLayout
+  title={title}
+  description={description}
+  markdownUrl={markdownUrl}
+  collection={collection}
+  entryId={entryId}
+  socialImage={socialImage}
+  lastUpdated={lastUpdated}
+>
+  <div class="archive-shell" data-slot="archive-shell">
+    <header
+      class="archive-header"
+      data-slot="archive-header"
+      data-pagefind-ignore
+    >
+      <div class="masthead">
+        <a class="wordmark" href="/" aria-label="Sandpapergate home">
+          <span class="archive-mark" aria-hidden="true">
+            S<span>.</span>
+          </span>
+          <span>
+            Sandpapergate<small>The public record</small>
+          </span>
+        </a>
+        <div class="header-actions">
+          <span class="local-label">
+            <i></i> Public record
+          </span>
+          <SearchTrigger />
+        </div>
+      </div>
+      <nav class="primary-nav" aria-label="Main navigation">
+        {sections.map(([label, href]) => (
+          <a
+            href={href}
+            aria-current={path.startsWith(href) ? "page" : undefined}
+          >
+            {label}
+          </a>
+        ))}
+        <a class="ai-link" href="/about/use-with-ai/">
+          Use with your AI <span aria-hidden="true">↗</span>
+        </a>
+      </nav>
+    </header>
+    <main
+      id="main-content"
+      tabindex="-1"
+      class:list={["archive-main", { "archive-home": isHome }]}
+      data-pagefind-body
+    >
+      {!isHome && (
+        <nav class="archive-breadcrumb" aria-label="Breadcrumb">
+          <a href="/">Home</a>
+          <span aria-hidden="true">/</span>
+          {section && path !== section[1] ? (
+            <>
+              <a href={section[1]}>{section[0]}</a>
+              <span aria-hidden="true">/</span>
+              <span aria-current="page">{title}</span>
+            </>
+          ) : (
+            <span aria-current="page">{title}</span>
+          )}
+        </nav>
+      )}
+      <div class="archive-title" data-slot="page-header">
+        <h1>
+          {isHome ? (
+            <>
+              “Everyone knew.”
+              <br />
+              <span>Claims, responses and open questions.</span>
+            </>
+          ) : (
+            title
+          )}
+        </h1>
+        {description && <p class="archive-description">{description}</p>}
+        {!isHome && markdownUrl && (
+          <a class="markdown-link" href={markdownUrl}>
+            Read as Markdown <span aria-hidden="true">↗</span>
+          </a>
+        )}
+      </div>
+      <article class="docs-content archive-content" data-slot="archive-content">
+        <slot />
+      </article>
+    </main>
+    <footer class="archive-footer" data-pagefind-ignore>
+      <a href="/">Sandpapergate</a>
+      <span>A record to examine. Conclusions are yours.</span>
+      <div>
+        <a href="/about/coverage/">Coverage & gaps</a>
+        <a href="/about/methods/">Source methods</a>
+        <a href="/llms.txt">llms.txt</a>
+      </div>
+    </footer>
+  </div>
+</BaseLayout>

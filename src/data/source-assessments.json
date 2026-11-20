@@ -1,0 +1,82 @@
+{
+  "SP002": {
+    "label": "Excerpts only",
+    "level": "partial"
+  },
+  "SP003": {
+    "label": "Official release",
+    "level": "complete_document"
+  },
+  "SP004": {
+    "label": "Excerpts only",
+    "level": "partial"
+  },
+  "SP005": {
+    "label": "Full release copy",
+    "level": "complete_document"
+  },
+  "SP008": {
+    "label": "Excerpts only",
+    "level": "partial"
+  },
+  "SP011": {
+    "label": "Quoted statements",
+    "level": "partial"
+  },
+  "SP014": {
+    "label": "PDF text captured",
+    "level": "complete_document"
+  },
+  "SP018": {
+    "label": "Full statement copy",
+    "level": "complete_statement"
+  },
+  "SP020": {
+    "label": "Excerpts only",
+    "level": "partial"
+  },
+  "SP022": {
+    "label": "PDF text captured",
+    "level": "complete_document"
+  },
+  "SP025": {
+    "label": "Excerpts only",
+    "level": "partial"
+  },
+  "SP029": {
+    "label": "Publisher transcript · edited",
+    "level": "full_interview"
+  },
+  "SP030": {
+    "label": "Excerpts only",
+    "level": "partial"
+  },
+  "SP031": {
+    "label": "Full statement copy",
+    "level": "complete_statement"
+  },
+  "SP033": {
+    "label": "Excerpts only",
+    "level": "partial"
+  },
+  "SP034": {
+    "label": "Metadata only",
+    "level": "metadata"
+  },
+  "SP010": {
+    "label": "Published transcript · opening omitted",
+    "level": "partial"
+  },
+  "SP063": {
+    "label": "Full episode audio · decoder checked",
+    "level": "recording"
+  },
+  "SP068": {
+    "label": "Full prepared statement / report",
+    "level": "complete_statement"
+  },
+  "SP055": {
+    "label": "Full article · book excerpts",
+    "level": "publisher_article"
+  }
+}

@@ -1,0 +1,1069 @@
+[
+  {
+    "slug": "earlier-use",
+    "title": "Was sandpaper used before Cape Town?",
+    "proposition": "Sandpaper was used on the match ball in the second Test at Port Elizabeth, before the televised Cape Town incident.",
+    "scope": "The relevant event is actual match use at Port Elizabeth. Sandpaper in a kit bag, practice on a training ball, and ordinary ball maintenance are different propositions.",
+    "kind": "Factual dispute",
+    "supporting": [
+      {
+        "title": "Bancroft supplies a first-person account of using it",
+        "reasoning": "Bancroft describes taking sandpaper onto the field after tea on day two and using it when he collected the ball. He describes repeated use and feedback during the session. If accurate, this directly supports earlier use rather than merely a plan.",
+        "limit": "This is a 2026 recollection. Bancroft says his 2018 account omitted when the practice began; contemporary corroboration is still needed.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-011", "p-012", "p-075", "p-090"]
+          }
+        ]
+      },
+      {
+        "title": "Sayers describes a separate physical involvement",
+        "reasoning": "Sayers places his first awareness at Port Elizabeth and says sandpaper was handed to him to take off the field. That is a potentially corroborating act by another participant, beyond a general belief that everyone knew.",
+        "limit": "He says he assumes Bancroft handed it to him, cannot remember what he did with it afterwards, and qualifies his belief that it was not used again in that Port Elizabeth Test. Bancroft separately describes continuous use through the rest of that Test and Cape Town. Agreement on onset does not independently corroborate duration; preserve the disagreement and uncertainty.",
+        "refs": [
+          {
+            "source": "SP029",
+            "blocks": [
+              "p-008",
+              "p-009",
+              "p-022",
+              "p-025",
+              "p-027",
+              "p-029",
+              "p-031"
+            ]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-090"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "The contemporary public account said this was the first occasion",
+        "reasoning": "Smith told the March 2018 press conference this was the first time under his leadership. That is a contemporary account in tension with the later Port Elizabeth accounts.",
+        "limit": "Its reliability is itself disputed: CA subsequently charged Smith with misleading public comments. A contemporary statement is not automatically a truthful one.",
+        "refs": [
+          {
+            "source": "SP036",
+            "blocks": ["p-012", "p-013", "p-014", "p-015"]
+          },
+          {
+            "source": "SP047",
+            "blocks": ["p-005", "p-006"]
+          },
+          {
+            "source": "SP005",
+            "blocks": ["p-009"]
+          }
+        ]
+      },
+      {
+        "title": "Cummins says the Port Elizabeth allegation was new to him",
+        "reasoning": "The captured Cummins coverage records his denial of knowing about sandpaper use at Port Elizabeth. It challenges the claim that the practice was common knowledge.",
+        "limit": "Lack of knowledge is not direct observation that the act never occurred. This is a challenge to shared knowledge, with less force against the narrower proposition that Bancroft used it.",
+        "refs": [
+          {
+            "source": "SP025",
+            "blocks": ["p-007", "p-008", "p-018"]
+          }
+        ]
+      }
+    ],
+    "unresolved": [
+      "Obtain and compare contemporary footage, any physical evidence and other first-person accounts specific to Port Elizabeth.",
+      "Resolve Sayers’ limited recollection about when the sandpaper was removed and whether use continued.",
+      "Do not infer the success or frequency of tampering from the number of wickets alone."
+    ],
+    "related": ["prior-knowledge", "warner-role", "coaches-awareness"]
+  },
+  {
+    "slug": "prior-knowledge",
+    "title": "Who knew, and when?",
+    "proposition": "Members of the bowling group knew about sandpaper being used on the match ball before the Cape Town television footage exposed it.",
+    "scope": "Assess each person and occasion separately. Knowing the ball was reversing, suspecting alteration, knowing sandpaper was being used, and directing its use are distinct claims.",
+    "kind": "Factual dispute",
+    "supporting": [
+      {
+        "title": "Bancroft names the bowlers and connects their feedback to his actions",
+        "reasoning": "He recalls conversations with Cummins, Starc, Hazlewood and Mitchell Marsh, says he used more sandpaper in response to feedback, and describes those exchanges continuing at Cape Town. This is more specific than an unnamed claim that the whole team knew.",
+        "limit": "He also acknowledges that knowledge of reverse swing, suspicion of alteration and knowledge of sandpaper differ. Feedback about swing alone cannot independently prove the third proposition.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": [
+              "p-077",
+              "p-078",
+              "p-082",
+              "p-096",
+              "p-127",
+              "p-128",
+              "p-134"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Sayers says his own awareness was wider than the punished trio",
+        "reasoning": "Sayers describes knowing about planned use and helping remove sandpaper, then questions how the original finding could be limited to three. If his account is accurate, at least one additional squad member had knowledge.",
+        "limit": "His further inference that every frontline bowler must have known is not a recollection of each person explicitly acknowledging it.",
+        "refs": [
+          {
+            "source": "SP029",
+            "blocks": ["p-019", "p-022", "p-079", "p-080", "p-097"]
+          }
+        ]
+      },
+      {
+        "title": "The 2021 interview shows the original question and hesitation",
+        "reasoning": "In the complete published Guardian interview, McRae asks twice whether bowlers knew. Bancroft’s answers imply awareness while stopping short of naming a person or recounting a particular acknowledgment. This establishes an earlier public implication rather than one invented in 2026.",
+        "limit": "The interviewer’s view that others must have known is editorial framing, not Bancroft’s testimony. His qualified and hesitant answer is weaker than an explicit account of who knew what.",
+        "refs": [
+          {
+            "source": "SP038",
+            "blocks": ["p-014", "p-015", "p-016", "p-017", "p-018", "p-019"]
+          }
+        ]
+      },
+      {
+        "title": "Khawaja explicitly asserts wider knowledge in the original newspaper interview",
+        "reasoning": "The published interview attributes to Khawaja an all-of-us account and quotes his insistence that the team knew and should take responsibility together. This is affirmative evidence of his stated position, alongside the later ABC interview in which he declines to identify named bowlers.",
+        "limit": "Collective wording does not provide an individual account of when each person learned of sandpaper. The complete memoir chapter and any underlying contemporaneous notes are not captured. The article’s summaries of book events must not be treated as the full chapter.",
+        "refs": [
+          {
+            "source": "SP055",
+            "blocks": ["p-006", "p-018", "p-046"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "The four bowlers directly denied prior knowledge",
+        "reasoning": "The 2021 joint statement says they did not know a foreign substance had been taken onto the field until the big-screen images. Cummins repeated a personal denial in 2026.",
+        "limit": "These are the participants’ denials, not an independent finding that settles the later conflicting testimony. The four signatories do not include Mitchell Marsh. In his 12 November 2026 response, Marsh declines to share his account or explain the non-signature. That refusal is neither a denial nor an admission and predates Bancroft’s later detailed statement.",
+        "refs": [
+          {
+            "source": "SP018",
+            "blocks": ["p-005", "p-007", "p-008"]
+          },
+          {
+            "source": "SP025",
+            "blocks": ["p-008", "p-009"]
+          },
+          {
+            "source": "SP069",
+            "blocks": ["p-024", "p-025", "p-194", "p-195"]
+          },
+          {
+            "source": "SP081",
+            "blocks": ["p-004", "p-008", "p-010", "p-011", "p-012"]
+          }
+        ]
+      },
+      {
+        "title": "Handling the ball or sharing a dressing room does not make awareness inevitable",
+        "reasoning": "The bowlers point to the umpires finding no visible reason to replace the ball. The ICC’s contemporary release independently records that inspection result. This challenges the argument that the alteration must have been obvious to everyone handling it. Paine’s published 2022 memoir passages separately reject the inference that everybody in a dressing room must know, saying players and staff keep things to themselves.",
+        "limit": "An umpire’s inability to see damage does not establish anyone’s private knowledge, and it concerns the inspected Cape Town ball rather than every earlier ball. Paine’s general objection predates the detailed 2026 allegations and does not independently refute Bancroft’s named conversations.",
+        "refs": [
+          {
+            "source": "SP018",
+            "blocks": ["p-008"]
+          },
+          {
+            "source": "SP003",
+            "blocks": ["p-010"]
+          },
+          {
+            "source": "SP083",
+            "blocks": ["p-009", "p-010"]
+          }
+        ]
+      },
+      {
+        "title": "Khawaja declines to confirm named bowlers’ knowledge",
+        "reasoning": "In the full ABC interview, Ferguson repeatedly asks about named bowlers and specifically Cummins. Khawaja declines to answer and says he deliberately avoided names, while advocating collective accountability. The interview therefore cannot be presented as a specific factual confirmation that each named bowler knew.",
+        "limit": "Declining to answer is not a retraction or proof of ignorance. The complete memoir chapter is still needed to assess the factual observations he asks readers to consider.",
+        "refs": [
+          {
+            "source": "SP040",
+            "blocks": [
+              "p-006",
+              "p-007",
+              "p-008",
+              "p-009",
+              "p-012",
+              "p-013",
+              "p-018",
+              "p-019",
+              "p-020",
+              "p-028"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Starc repeats a personal denial rather than supplying a different full-team account",
+        "reasoning": "The captured November 2026 report quotes Starc saying his recollection is unchanged and that he was unaware of a substance being taken onto the field before seeing it on the big screen. It adds a contemporaneous personal response to the 2021 joint denial.",
+        "limit": "The full press exchange is not captured, and the quoted denial concerns his knowledge; it cannot independently establish what others knew. The report also says he had not read the book.",
+        "refs": [
+          {
+            "source": "SP052",
+            "blocks": ["p-006", "p-007", "p-008", "p-020"]
+          }
+        ]
+      },
+      {
+        "title": "Cummins offers a different explanation of the huddle language",
+        "reasoning": "ABC’s live record captures the specific question about telling teammates not to do anything else to a reversing ball. Cummins says he does not remember that exchange but describes similar instructions as part of ordinary ball maintenance. This is a competing explanation for feedback that the wider-knowledge argument treats as incriminating.",
+        "limit": "This is his explanation of normal practice, not independent proof of what happened in that huddle or a historical ruling that every method he describes was lawful. Lack of recollection is not proof the conversation did not happen.",
+        "refs": [
+          {
+            "source": "SP069",
+            "blocks": [
+              "p-167",
+              "p-168",
+              "p-169",
+              "p-170",
+              "p-171",
+              "p-172",
+              "p-173"
+            ]
+          }
+        ]
+      }
+    ],
+    "unresolved": [
+      "For each named person, what direct words or actions establish specific knowledge before exposure?",
+      "Which accounts concern Port Elizabeth and which concern Cape Town?",
+      "Can the original investigation interview records or contemporaneous communications resolve the conflicting accounts?"
+    ],
+    "related": [
+      "earlier-use",
+      "coaches-awareness",
+      "investigation-and-accountability"
+    ]
+  },
+  {
+    "slug": "coaches-awareness",
+    "title": "Did coaches know or encourage it?",
+    "proposition": "At least one member of the coaching staff knew about or encouraged match-ball tampering with sandpaper before it was publicly exposed.",
+    "scope": "Presence at a discussion, knowing of the plan, encouraging it and learning of it after the television exposure are different propositions. A claim about one coach does not establish the knowledge of all staff.",
+    "kind": "Factual dispute",
+    "supporting": [
+      {
+        "title": "Bancroft identifies a coach and a specific instruction",
+        "reasoning": "He identifies Saker as the coach who told him to do more during the Cape Town innings and recalls playing and coaching staff acknowledging his work at Port Elizabeth. These are allegations of prior encouragement, not merely awareness afterwards.",
+        "limit": "These are later allegations. Saker’s May2021 broad-blame comments and June2021 explicit personal denial are both now collected; neither is a response to Bancroft’s specific2026 instruction allegation. His complete current response and direct corroboration are still needed.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-101", "p-102", "p-125", "p-126"]
+          }
+        ]
+      },
+      {
+        "title": "The alleged discussion was wider than two players",
+        "reasoning": "Bancroft says Saker and Lehmann were present as the sandpaper proposal developed and recalls people agreeing. He also describes Hutchison objecting to what was happening at a later team discussion.",
+        "limit": "He expressly cannot speak for every word shared, says people moved in and out, and says Hutchison deserves her own account. Physical presence does not by itself establish knowledge or endorsement.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": [
+              "p-050",
+              "p-058",
+              "p-059",
+              "p-062",
+              "p-105",
+              "p-106",
+              "p-109"
+            ]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "Smith’s original account excluded the coaches",
+        "reasoning": "At the initial press conference Smith said the coaches were not involved and attributed the decision to the leadership group. This is a direct competing account of who participated.",
+        "limit": "CA later charged him with misleading public comments about the nature and participants of the plan; the initial exclusion cannot be treated as independently verified.",
+        "refs": [
+          {
+            "source": "SP036",
+            "blocks": ["p-010", "p-011"]
+          },
+          {
+            "source": "SP005",
+            "blocks": ["p-009"]
+          }
+        ]
+      },
+      {
+        "title": "Post-exposure instructions cannot alone prove earlier knowledge",
+        "reasoning": "Bancroft recalls Handscomb relaying Lehmann’s instruction to remove the sandpaper after he had been caught and infers Lehmann must already have known. The timing also permits knowledge acquired from the newly exposed footage.",
+        "limit": "This timing objection narrows the inference from that incident; it does not answer Bancroft’s separate allegations about earlier changing-room discussions.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-135", "p-136", "p-137", "p-138"]
+          }
+        ]
+      },
+      {
+        "title": "Lehmann’s contemporary denial and later recollection both remain on record",
+        "reasoning": "The newly collected official 2018 report reproduces Lehmann’s explicit denial of prior knowledge, omitted from the other published transcript in this archive. In ABC’s 2026 coverage he disputes universal knowledge; on the collective-responsibility meeting he says he does not remember and cannot confirm or deny it.",
+        "limit": "The complete ABC episode and an automatic draft are now collected, but its exact wording is not listening-verified. General knowledge that ball tampering exists and acceptance of cultural responsibility are not admissions of knowing this sandpaper plan. A personal denial does not establish every coach’s knowledge.",
+        "refs": [
+          {
+            "source": "SP062",
+            "blocks": [
+              "p-006",
+              "p-008",
+              "p-009",
+              "p-013",
+              "p-015",
+              "p-016",
+              "p-017"
+            ]
+          },
+          {
+            "source": "SP068",
+            "blocks": ["p-006", "p-009", "p-012"]
+          }
+        ]
+      },
+      {
+        "title": "Hick expressly denies knowing of discussions at either Test",
+        "reasoning": "In his statement to the original newspaper, Hick says he did not hear or know of discussions about tampering at Port Elizabeth or Cape Town and first learned of it from the big-screen footage. This directly contests a literal claim that every staff member knew beforehand.",
+        "limit": "The capture is the complete published report with his quoted statement, not a raw interview recording. His denial is a participant’s competing account; it does not independently settle other staff members’ knowledge.",
+        "refs": [
+          {
+            "source": "SP065",
+            "blocks": ["p-008", "p-011", "p-012", "p-013", "p-014"]
+          }
+        ]
+      },
+      {
+        "title": "Saker’s later 2021 response explicitly denies sandpaper knowledge",
+        "reasoning": "The June3 report quotes Saker saying he had no idea sandpaper was involved and understood the team to be using normal reverse-swing tactics. That is an express personal denial, more specific than his May remarks about a monumental mistake and many people to blame. Both belong in the record.",
+        "limit": "This is a contemporary publisher report with selected direct quotations, not the full underlying conference or verified audio. It predates the specific2026 allegations and does not establish another coach’s knowledge.",
+        "refs": [
+          {
+            "source": "SP074",
+            "blocks": ["p-004", "p-006", "p-007", "p-008", "p-009"]
+          }
+        ]
+      },
+      {
+        "title": "Saker’s 2019 public denial concerns condoning cheating",
+        "reasoning": "In the original May 2019 interview report, Saker says the team had never condoned cheating. This is an earlier public denial relevant to the encouragement part of the claim, alongside his separate June 2021 denial of sandpaper knowledge.",
+        "limit": "Not condoning, not knowing and preventing an incident are different propositions. The report contains selected interview quotations and predates the specific 2026 allegations; it does not establish what Saker privately knew or answer the later alleged instruction directly.",
+        "refs": [
+          {
+            "source": "SP075",
+            "blocks": ["p-008", "p-009", "p-010", "p-011"]
+          }
+        ]
+      }
+    ],
+    "unresolved": [
+      "Obtain the complete underlying Saker conference and full original Hick response, plus Hutchison and Handscomb accounts where available. Hick’s published paragraphs do not establish whether he responded in writing or orally. Lehmann’s full ABC episode and official2018 materials are collected; exact speech remains unverified.",
+      "What did each person hear before the cameras exposed the incident?",
+      "Do contemporary staff communications, audio or investigation records corroborate the alleged instructions?"
+    ],
+    "related": ["prior-knowledge", "explanations-and-changes", "warner-role"]
+  },
+  {
+    "slug": "warner-role",
+    "title": "Who devised and directed the plan?",
+    "proposition": "Warner was a principal initiator of the sandpaper plan and instructed Bancroft to carry it out.",
+    "scope": "Warner’s involvement and whether it was exclusive are separate propositions. A team benefit or permissive culture does not by itself establish collective planning or absolve the person who proposed the method.",
+    "kind": "Factual dispute",
+    "supporting": [
+      {
+        "title": "The public charges specifically attribute development and instruction to Warner",
+        "reasoning": "CA’s published account charges Warner with developing the plan, instructing Bancroft and demonstrating how to alter the ball. The 2024 review decision records Warner accepting the report’s description of his conversation and demonstration.",
+        "limit": "The 2024 proceeding concerned modification of a sanction, not a new investigation of everyone’s role. Acceptance of Warner’s involvement does not establish exclusivity.",
+        "refs": [
+          {
+            "source": "SP005",
+            "blocks": ["p-010", "p-011"]
+          },
+          {
+            "source": "SP022",
+            "blocks": ["pdf-page-002", "pdf-page-003"]
+          }
+        ]
+      },
+      {
+        "title": "Bancroft’s later account still identifies Warner’s proposal",
+        "reasoning": "Bancroft says Warner raised sandpaper and explained why camera attention meant he could not carry it out personally. Even the account alleging wider involvement retains a concrete initiating role for Warner.",
+        "limit": "Bancroft frames it as happening within wider team conversations; acknowledging the proposal is compatible with others’ encouragement or prior knowledge.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-049", "p-052", "p-053", "p-055", "p-056"]
+          }
+        ]
+      },
+      {
+        "title": "The complete Gilchrist interview directly names Warner",
+        "reasoning": "Asked who requested the action, Bancroft says Warner suggested it. The question and answer supply a direct attribution from Bancroft in December 2018, before his more expansive 2026 account.",
+        "limit": "The interview does not establish that Warner acted alone; it also records Bancroft’s choice and desire to fit in. Interview content must not be reduced to a headline assigning all responsibility to Warner.",
+        "refs": [
+          {
+            "source": "SP037",
+            "blocks": ["p-015", "p-016", "p-017", "p-018"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "Bancroft describes wider participation and agreement",
+        "reasoning": "He recalls people agreeing, others offering views on when to act, and playing and coaching staff later acknowledging his role. If accurate, the organisational setting involved more than a private instruction between two players.",
+        "limit": "Participation in discussion and collective benefit must still be distinguished from authorship of the plan, express approval and knowledge in each case.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-057", "p-058", "p-062", "p-074", "p-101", "p-102"]
+          }
+        ]
+      },
+      {
+        "title": "Sayers does not recall who first proposed it",
+        "reasoning": "Sayers remembers discussion and Bancroft agreeing to act, but explicitly says he does not remember whose idea it was initially. His account cannot independently confirm the origin of the proposal.",
+        "limit": "Failure to remember an origin is not positive evidence that Warner did not propose it. It limits corroboration rather than refuting the specific allegation.",
+        "refs": [
+          {
+            "source": "SP029",
+            "blocks": ["p-012", "p-013", "p-014", "p-015"]
+          }
+        ]
+      },
+      {
+        "title": "Erskine alleges wider instructions and protection of others",
+        "reasoning": "Warner’s manager says more than three were involved, says he advised Warner to protect colleagues, and alleges earlier instructions by executives in Hobart. These claims raise a possible institutional context beyond a single player’s initiative.",
+        "limit": "These remain a manager’s allegations, with no established basis that he witnessed the Hobart exchange. The executives are unnamed and a 2016 allegation does not itself establish a 2018 sandpaper instruction. Full audio and an automatic draft are now collected; the bowlers commentary after the guest farewell belongs to the host, not Erskine.",
+        "refs": [
+          {
+            "source": "SP050",
+            "blocks": ["p-009", "p-010", "p-023", "p-024", "p-025"]
+          }
+        ]
+      }
+    ],
+    "unresolved": [
+      "Compare the now-captured complete Gilchrist interview with the 2026 account, especially the distinction between suggesting the method and wider participation.",
+      "What does the original investigation evidence establish about proposal, agreement and demonstration separately?",
+      "Does anyone identify another initiator with direct rather than second-hand knowledge?"
+    ],
+    "related": ["earlier-use", "coaches-awareness", "smith-role"]
+  },
+  {
+    "slug": "smith-role",
+    "title": "What did Smith know and do?",
+    "proposition": "Smith knew about a potential sandpaper plan but distanced himself instead of authorising or directing its implementation.",
+    "scope": "Knowledge, failure to prevent, approval, concealment and misleading explanations are distinct forms of responsibility. A person can decline direct participation while still failing in a leadership duty.",
+    "kind": "Factual dispute",
+    "supporting": [
+      {
+        "title": "The CA charges distinguish his role from Warner’s",
+        "reasoning": "Smith’s charges concern knowledge of a potential plan and failure to prevent it, whereas Warner’s include development, instruction and demonstration. This is evidence that CA did not publish identical allegations against them.",
+        "limit": "The same charge list also attributes concealment and misleading explanations to Smith. Different charges do not amount to exoneration or prove that he lacked authority to stop it.",
+        "refs": [
+          {
+            "source": "SP005",
+            "blocks": ["p-009", "p-011"]
+          }
+        ]
+      },
+      {
+        "title": "Bancroft recalls Smith explicitly distancing himself",
+        "reasoning": "Bancroft says Smith entered the Port Elizabeth discussion, wanted no part in it and distanced himself; he recalls a later similar response. This supports knowledge plus disengagement rather than direct physical implementation.",
+        "limit": "It is a later recollection and does not establish whether the disengagement was a sufficient intervention or what Smith knew at each later stage.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-060", "p-094"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "Smith originally accepted a leadership-group decision",
+        "reasoning": "His initial account described the leadership group’s idea and accepted responsibility. The ICC records his admission that he was party to a decision to attempt an unfair alteration.",
+        "limit": "The initial public account was subsequently challenged as misleading. It is necessary to establish what he meant by leadership group rather than assume every senior player participated.",
+        "refs": [
+          {
+            "source": "SP036",
+            "blocks": ["p-006", "p-007", "p-008", "p-009"]
+          },
+          {
+            "source": "SP003",
+            "blocks": ["p-001", "p-002", "p-003"]
+          }
+        ]
+      },
+      {
+        "title": "Distancing oneself does not answer prevention and concealment",
+        "reasoning": "CA’s public charges include failure to prevent implementation, directing concealment and misleading officials and the public. Those allegations challenge a reading of disengagement as no meaningful involvement.",
+        "limit": "The complete underlying investigation records are missing; the source establishes the public charge, not independent observation of each alleged act.",
+        "refs": [
+          {
+            "source": "SP005",
+            "blocks": ["p-008", "p-009"]
+          }
+        ]
+      },
+      {
+        "title": "His full return-home statement accepts a failure of leadership",
+        "reasoning": "Smith describes allowing it to happen, calls it a failure of his own leadership and declines to blame Warner. This counters an interpretation that a limited role meant no responsibility.",
+        "limit": "Accepting leadership responsibility does not specify that he personally developed the sandpaper method or demonstrate every act alleged in the charges.",
+        "refs": [
+          {
+            "source": "SP047",
+            "blocks": ["p-001", "p-003", "p-004", "p-007", "p-008"]
+          }
+        ]
+      }
+    ],
+    "unresolved": [
+      "Compare the now-captured original questions and answers with underlying investigation records when available; different admissions have different scopes.",
+      "What specific acts did Smith take to stop or facilitate the plan?",
+      "Separate judgments of captaincy responsibility from claims about physical tampering or devising the method."
+    ],
+    "related": [
+      "warner-role",
+      "explanations-and-changes",
+      "sanctions-and-responsibility"
+    ]
+  },
+  {
+    "slug": "explanations-and-changes",
+    "title": "Was the public explanation coordinated?",
+    "proposition": "The inaccurate tape explanation and omission of wider involvement were coordinated beyond Smith and Bancroft.",
+    "scope": "That an explanation was inaccurate is different from who devised it, who knew it was false, who agreed and who later relied on it. An accusation of continuing coordination requires evidence beyond the original incorrect account.",
+    "kind": "Factual dispute",
+    "supporting": [
+      {
+        "title": "The material explanation changed in an acknowledged way",
+        "reasoning": "The initial public account describes tape and granules. Bancroft’s 2026 statement explicitly says sandpaper was concealed behind that explanation and calls it another lie. CA’s charges also identify misleading public comments.",
+        "limit": "This strongly supports inaccuracy of the early account, but not by itself the identity or number of those who coordinated it.",
+        "refs": [
+          {
+            "source": "SP036",
+            "blocks": ["p-003", "p-004", "p-005"]
+          },
+          {
+            "source": "SP048",
+            "blocks": ["p-003", "p-004"]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-146", "p-149", "p-150"]
+          },
+          {
+            "source": "SP005",
+            "blocks": ["p-009", "p-014"]
+          }
+        ]
+      },
+      {
+        "title": "Bancroft alleges specific advice before the press conference",
+        "reasoning": "He identifies Saker as warning against naming sandpaper and says coaches, management and players discussed the response, with some agreeing and others disagreeing. This is an allegation of coordination beyond the two speakers.",
+        "limit": "The account is retrospective and does not identify every participant or supply their exact responses. It needs the named staff responses and contemporaneous corroboration.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-142", "p-143", "p-147", "p-148", "p-149"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "The early account does not itself identify a wider cover-up group",
+        "reasoning": "Bancroft described panic when seen on the screen, while Smith publicly assigned the original plan to a leadership group and excluded coaches. Neither establishes who proposed the later tape story beyond the people who spoke.",
+        "limit": "Panic and wider coordination can coexist; the early account’s failure to identify others is not proof others were uninvolved.",
+        "refs": [
+          {
+            "source": "SP048",
+            "blocks": ["p-003", "p-004"]
+          },
+          {
+            "source": "SP036",
+            "blocks": ["p-010", "p-011"]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-151"]
+          }
+        ]
+      },
+      {
+        "title": "Silence at a post-exposure meeting does not establish earlier agreement",
+        "reasoning": "Bancroft recalls nobody professing ignorance at the subsequent meeting and others advising how to minimise damage. By then sandpaper had been exposed; that silence cannot on its own establish prior knowledge or a prior pact.",
+        "limit": "This challenges the inference from that meeting, rather than refuting the specific allegation of pre-conference advice.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-155", "p-156", "p-157", "p-158"]
+          }
+        ]
+      }
+    ],
+    "unresolved": [
+      "Verify the published original Q&A against recordings and obtain complete relevant staff accounts.",
+      "Which proposed statements were agreed before the first press conference, and by whom?",
+      "Treat later inconsistency, an admitted omission and a proven continuing agreement as different findings."
+    ],
+    "related": [
+      "coaches-awareness",
+      "investigation-and-accountability",
+      "smith-role"
+    ],
+    "changes": [
+      {
+        "date": "24 March 2018",
+        "description": "The Cape Town Q&A gives tape and granules as the material and excludes coaching involvement.",
+        "refs": [
+          {
+            "source": "SP036",
+            "blocks": ["p-003", "p-005", "p-010", "p-011"]
+          }
+        ]
+      },
+      {
+        "date": "29 March 2018",
+        "description": "Bancroft’s return-home Q&A explicitly acknowledges lying about sandpaper and says he panicked. The admission of the material lie did not first arrive in 2026.",
+        "refs": [
+          {
+            "source": "SP048",
+            "blocks": ["p-003", "p-004"]
+          }
+        ]
+      },
+      {
+        "date": "26 December 2018",
+        "description": "The Gilchrist interview acknowledges the lie while discussing accountability and why the original conference happened immediately.",
+        "refs": [
+          {
+            "source": "SP037",
+            "blocks": ["p-025", "p-026", "p-027", "p-028"]
+          }
+        ]
+      },
+      {
+        "date": "18 November 2026",
+        "description": "Bancroft supplies an allegation about pre-conference advice from Saker and others, adding alleged coordination beyond the already-acknowledged lie.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-146", "p-147", "p-148", "p-149", "p-150"]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "slug": "investigation-and-accountability",
+    "title": "Did the investigation settle who knew?",
+    "proposition": "The 2018 investigation’s public finding reliably establishes that only Smith, Warner and Bancroft had prior knowledge of the incident.",
+    "scope": "There is a published finding that prior knowledge was confined to three. Whether the available evidence justifies treating that finding as exhaustive is a separate question. Different reviews have different remits.",
+    "kind": "Factual dispute",
+    "supporting": [
+      {
+        "title": "CA published a specific finding and individual charges",
+        "reasoning": "The reproduced official release expressly confines prior knowledge to three and differentiates their conduct. In 2021 CA said its integrity unit asked Bancroft for new information and he supplied none.",
+        "limit": "The underlying investigation report, interview schedule and complete evidence are not in this archive. An official conclusion and a later absence of supplied evidence are not substitutes for those records.",
+        "refs": [
+          {
+            "source": "SP005",
+            "blocks": ["p-002", "p-003", "p-009", "p-011", "p-014"]
+          },
+          {
+            "source": "SP018",
+            "blocks": ["p-015", "p-016", "p-017"]
+          }
+        ]
+      },
+      {
+        "title": "Participants say they answered the investigators’ questions",
+        "reasoning": "The fuller ABC live record quotes Cummins saying he was interviewed, answered truthfully and recalls requests for anyone with different accounts or information to come forward. This is evidence of his participation and his stated account of the process. The June2021 Saker report also describes his interview and quotes his account of having taken part.",
+        "limit": "His experience does not establish that every relevant witness was interviewed or that the investigators received all relevant information.",
+        "refs": [
+          {
+            "source": "SP025",
+            "blocks": ["p-028", "p-029"]
+          },
+          {
+            "source": "SP069",
+            "blocks": ["p-179", "p-180", "p-181", "p-182", "p-183"]
+          },
+          {
+            "source": "SP074",
+            "blocks": ["p-006", "p-008"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "An alleged relevant witness says he was never interviewed",
+        "reasoning": "Sayers describes helping remove sandpaper and says he expected an interview but was never interviewed. If accurate, his potentially relevant evidence was not directly tested in the original process.",
+        "limit": "The publisher transcript prints a speculative suggestion about knowing too much. The recording’s automatic editions do not independently settle that exact verb phrase, and in any event it is not evidence of investigator motive. His stated non-interview and the reason for it are separate propositions.",
+        "refs": [
+          {
+            "source": "SP029",
+            "blocks": [
+              "p-022",
+              "p-058",
+              "p-059",
+              "p-061",
+              "p-063",
+              "p-065",
+              "p-066"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Bancroft says he withheld material facts from investigators",
+        "reasoning": "His later statement admits that he did not give a complete truthful account and omitted timing and others’ awareness. If accepted, this directly limits the information on which the original process could rely.",
+        "limit": "An admission of earlier concealment also bears on evaluating his later credibility. It does not automatically make every new allegation true.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-009", "p-010", "p-011", "p-012", "p-013", "p-190"]
+          }
+        ]
+      },
+      {
+        "title": "Khawaja also questions whether relevant evidence was sought",
+        "reasoning": "In the full ABC interview he says he was not investigated despite sitting next to Bancroft and describes the process as rushed. He stops short of asserting a cover-up. This supports a question about investigation completeness while preserving his own qualification.",
+        "limit": "The interview does not establish the complete witness list or why particular people were not interviewed. The archive still lacks the underlying investigation record.",
+        "refs": [
+          {
+            "source": "SP040",
+            "blocks": ["p-038", "p-039"]
+          }
+        ]
+      }
+    ],
+    "unresolved": [
+      "Obtain or establish the availability of the underlying report, interview list and contemporaneous witness accounts.",
+      "What new evidence, rather than repeated allegation, has each later account supplied?",
+      "Do not treat a cultural review, 2024 sanction modification or later private forum as a fresh factual reinvestigation.",
+      "The original newspaper interview reports that Khawaja wrote notes in Johannesburg in 2018. Obtain the notes and their provenance before treating this report of their existence as contemporary evidence of their contents."
+    ],
+    "related": [
+      "prior-knowledge",
+      "earlier-use",
+      "sanctions-and-responsibility"
+    ]
+  },
+  {
+    "slug": "sanctions-and-responsibility",
+    "title": "Were three players made to carry collective responsibility?",
+    "proposition": "The sanctions and public allocation of responsibility were unfair because a wider team and institutional failure was placed on three individuals.",
+    "scope": "This is partly a normative dispute. Personal culpability, collective cultural responsibility, equal punishment and the proportionality of particular sanctions are not interchangeable.",
+    "kind": "Normative and factual dispute",
+    "supporting": [
+      {
+        "title": "The cultural review assigns responsibility beyond the players",
+        "reasoning": "The Ethics Centre says responsibility for the larger cultural picture lies with CA as well as the directly responsible players. Its executive summary says leadership should accept responsibility for an inadvertent but foreseeable cultural failure.",
+        "limit": "The review expressly relies on reported incident facts and has a cultural/governance remit. It does not determine which additional individuals knew about sandpaper or deserve sanctions.",
+        "refs": [
+          {
+            "source": "SP014",
+            "blocks": ["pdf-page-002", "pdf-page-005", "pdf-page-007"]
+          }
+        ]
+      },
+      {
+        "title": "Participants describe a wider burden and dispute the severity",
+        "reasoning": "Bancroft says he believed the trio were accepting responsibility for the team; Sayers recalls a collective-responsibility discussion. Cummins’ 2026 coverage also records his view that the penalties were too heavy-handed. Paine’s 2022 memoir passages also ask whether owning the incident as a team would have helped the three players who bore the brunt.",
+        "limit": "A recalled discussion is not proof of an agreement to take blame. Reporting of Cummins’ view is not a detailed proportionality analysis or an admission of prior knowledge. Paine’s counterfactual regret is not a specific admission of prior sandpaper knowledge or proof of a contemporaneous agreement.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-173", "p-174"]
+          },
+          {
+            "source": "SP029",
+            "blocks": ["p-042", "p-043", "p-048", "p-049", "p-057"]
+          },
+          {
+            "source": "SP025",
+            "blocks": ["p-005"]
+          },
+          {
+            "source": "SP083",
+            "blocks": ["p-005", "p-006"]
+          }
+        ]
+      },
+      {
+        "title": "Khawaja argues for shared accountability, not equal bans",
+        "reasoning": "When pressed about a team-wide ban, Khawaja says he thought the team would not all have been banned if they had accepted responsibility together. This clarifies that his advocacy of collective responsibility is not an explicit demand for identical suspensions for everyone.",
+        "limit": "His expectation about what CA would have done is counterfactual, not a proven consequence. It still leaves open who should have accepted which factual acts or consequences.",
+        "refs": [
+          {
+            "source": "SP040",
+            "blocks": ["p-028", "p-033", "p-034", "p-035", "p-036", "p-037"]
+          }
+        ]
+      },
+      {
+        "title": "Coaches themselves distinguish cultural responsibility from personal knowledge",
+        "reasoning": "In his full prepared 2018 resignation statement, Lehmann denies prior knowledge while accepting ultimate responsibility for team culture. Saker’s original 2021 interview says there were many people to blame and that the incident could have been stopped. These accounts support examining responsibility beyond the punished players without requiring an admission that every coach knew about sandpaper.",
+        "limit": "Cultural or preventable failure is different from proof of specific knowledge or instructions. Saker’s June2021 response expressly denies knowing about sandpaper; his earlier broad-blame language cannot be silently turned into that admission. These statements do not establish an additional sanction.",
+        "refs": [
+          {
+            "source": "SP068",
+            "blocks": ["p-009", "p-012", "p-013", "p-014"]
+          },
+          {
+            "source": "SP064",
+            "blocks": ["p-004", "p-005", "p-006", "p-008", "p-009"]
+          },
+          {
+            "source": "SP074",
+            "blocks": ["p-007", "p-008"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "CA justified sanctions by distinct acts and public trust",
+        "reasoning": "The public release distinguishes planning, instruction, concealment and misleading explanations, then says integrity and reputation require significant penalties while leaving a route back to playing. This is an argument for individual accountability beyond ball alteration alone.",
+        "limit": "A stated rationale does not settle whether the actual sanctions were consistent or proportionate. Comparators under the same rules and procedural rights still matter.",
+        "refs": [
+          {
+            "source": "SP005",
+            "blocks": [
+              "p-009",
+              "p-011",
+              "p-014",
+              "p-016",
+              "p-018",
+              "p-026",
+              "p-027",
+              "p-030"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Warner’s later review records acceptance of the original sanction",
+        "reasoning": "The 2024 panel records Warner having admitted the offence, accepted the proposed sanctions and later accepted their propriety before that panel. This complicates a claim that those sanctions were uniformly rejected by the affected players.",
+        "limit": "The proceeding concerned rehabilitation and modification, not a new appeal on the original offence. Acceptance in that setting does not decide whether institutional accountability was adequate.",
+        "refs": [
+          {
+            "source": "SP022",
+            "blocks": ["pdf-page-003", "pdf-page-004", "pdf-page-005"]
+          }
+        ]
+      },
+      {
+        "title": "The 2022 procedural dispute is distinct from the original offence",
+        "reasoning": "Warner’s complete withdrawal statement says the sanction-modification hearing should not become an appeal or new review of March 2018. His objection concerns public procedure and family welfare, so it cannot be presented as that panel clearing him of the original acts.",
+        "limit": "This does not settle the proportionality of the original penalty or whether the later process treated him fairly. CA’s reported support for privacy is separate from the panel’s decision.",
+        "refs": [
+          {
+            "source": "SP039",
+            "blocks": [
+              "p-009",
+              "p-012",
+              "p-013",
+              "p-014",
+              "p-015",
+              "p-016",
+              "p-017"
+            ]
+          },
+          {
+            "source": "SP020",
+            "blocks": ["p-015", "p-016", "p-017"]
+          }
+        ]
+      },
+      {
+        "title": "Agreement that penalties were excessive does not establish shared knowledge",
+        "reasoning": "The fuller ABC record quotes Cummins calling the sanctions excessive, then expressly rejecting the extrapolation that everyone else therefore knew. His position permits criticism of the punishment while maintaining a personal denial of the factual allegation.",
+        "limit": "This does not decide proportionality or refute another participant’s direct account. It shows why a shared view about punishment cannot be counted as agreement about prior knowledge.",
+        "refs": [
+          {
+            "source": "SP069",
+            "blocks": ["p-139", "p-140", "p-141"]
+          }
+        ]
+      }
+    ],
+    "unresolved": [
+      "What same-code comparators, reasons and appeal opportunities bear on proportionality?",
+      "Which proposed additional consequences concern institutional reform rather than punishment of individuals?",
+      "Acquire the ACA’s original objections and the complete player-driven review output before treating the public response as fully represented."
+    ],
+    "related": [
+      "investigation-and-accountability",
+      "smith-role",
+      "prior-knowledge"
+    ]
+  },
+  {
+    "slug": "selection-and-scandal",
+    "title": "Did the scandal affect Bancroft’s later selection?",
+    "proposition": "Unresolved tensions around Sandpapergate contributed to Bancroft not being recalled after 2019.",
+    "scope": "A participant’s concern about selection is not a demonstrated causal explanation of selection decisions. Assess each selection window, performance, role and alternative candidate rather than treating an entire career as one decision.",
+    "kind": "Factual dispute",
+    "supporting": [
+      {
+        "title": "Bancroft describes a pattern he found difficult to explain",
+        "reasoning": "He points to strong domestic run-scoring periods, says opportunities did not materialise and wonders whether dressing-room tension after his 2021 comments played a part. This supplies his stated reason for suspecting a connection.",
+        "limit": "He explicitly acknowledges poor-form periods, competing candidates and cricketing reasons. His concern and statistics require independent checking and do not establish a selector’s motive.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-176", "p-177", "p-178", "p-179", "p-180", "p-181"]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "His own account recognises plausible cricketing explanations",
+        "reasoning": "Bancroft says selection is complicated, recognises times when he was out of form and notes decisions he was not part of. Those concessions mean the absence of a recall alone cannot isolate scandal-related exclusion as the cause.",
+        "limit": "These alternatives do not prove that the scandal had no influence. The evidence required is the contemporaneous reasoning for particular decisions, not an assertion that selection is always purely statistical.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": ["p-176", "p-178", "p-179"]
+          }
+        ]
+      },
+      {
+        "title": "The selector’s reported explanation directly denies a political veto",
+        "reasoning": "The January 2024 report quotes Bailey rejecting any push from bowlers, saying the panel had not discussed Sandpapergate and explaining Green’s inclusion and Renshaw’s position. This supplies a specific competing explanation for a specific omission.",
+        "limit": "This is an AAP report with direct quotations, not the complete press conference or internal selection record. A denial is relevant evidence, not an independent audit; its strongest scope is the January 2024 decision discussed.",
+        "refs": [
+          {
+            "source": "SP061",
+            "blocks": [
+              "p-014",
+              "p-015",
+              "p-016",
+              "p-017",
+              "p-020",
+              "p-025",
+              "p-026",
+              "p-027"
+            ]
+          }
+        ]
+      }
+    ],
+    "unresolved": [
+      "Acquire the complete selection press conference and contemporaneous selection record for each contested window; Bailey’s January 2024 quoted explanation is now collected.",
+      "Check the domestic performance and role-comparison claims against scorecards and squad announcements.",
+      "Avoid extending an explanation for one 2024 selection decision to every later decision."
+    ],
+    "related": ["sanctions-and-responsibility"]
+  },
+  {
+    "slug": "bancroft-agency",
+    "title": "Was Bancroft pressured into it?",
+    "proposition": "Bancroft’s junior status and pressure to belong materially constrained his choice to carry out the tampering.",
+    "scope": "Social pressure, a request from a senior player, explicit coercion and absence of personal agency are different propositions. Explanations of vulnerability do not automatically remove responsibility.",
+    "kind": "Causal and responsibility dispute",
+    "supporting": [
+      {
+        "title": "His full 2018 interview links the decision to belonging",
+        "reasoning": "Bancroft says fitting in and earning teammates’ respect mattered to him, that refusing would have felt like letting the team down, and that Warner asked him to act. These details support a social-pressure explanation grounded in his own account.",
+        "limit": "This is his later explanation of his motives. It does not itself establish an explicit threat, an order he could not refuse or the mental state of the senior players.",
+        "refs": [
+          {
+            "source": "SP037",
+            "blocks": [
+              "p-010",
+              "p-011",
+              "p-012",
+              "p-014",
+              "p-015",
+              "p-016",
+              "p-017",
+              "p-018"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "His 2026 account describes discomfort alongside the opportunity to contribute",
+        "reasoning": "He describes feeling uncomfortable and compromised, knowing the act was cheating, and being eager to establish himself in the team. That supports an explanation involving both pressure and perceived reward.",
+        "limit": "It is a retrospective account. Desire for acceptance is not equivalent to the absence of a choice, and his account expressly says he agreed.",
+        "refs": [
+          {
+            "source": "SP031",
+            "blocks": [
+              "p-063",
+              "p-064",
+              "p-065",
+              "p-066",
+              "p-067",
+              "p-068",
+              "p-069"
+            ]
+          }
+        ]
+      }
+    ],
+    "challenging": [
+      {
+        "title": "The initial Q&A does not endorse a coercion allegation",
+        "reasoning": "Asked whether senior players coerced or pressured him, Bancroft says he did not feel it was that way in this case while acknowledging nervousness and accountability. This is a directly relevant contemporary answer rather than an inference from his age.",
+        "limit": "The later record admits the original public account was incomplete and misleading. That bears on reliability without licensing replacement of the original wording.",
+        "refs": [
+          {
+            "source": "SP036",
+            "blocks": ["p-022", "p-023"]
+          },
+          {
+            "source": "SP031",
+            "blocks": ["p-009", "p-011", "p-012"]
+          }
+        ]
+      },
+      {
+        "title": "He repeatedly retains personal agency in the fuller accounts",
+        "reasoning": "In the Gilchrist interview Bancroft says he had a choice and was not a victim. His return-home Q&A says he had the opportunity to take control of his actions and failed to do so. These concessions challenge a complete-absolution version of the pressure argument.",
+        "limit": "Acknowledging choice can coexist with substantial social pressure; it does not show the environment had no causal role.",
+        "refs": [
+          {
+            "source": "SP037",
+            "blocks": ["p-016"]
+          },
+          {
+            "source": "SP048",
+            "blocks": ["p-017", "p-018"]
+          }
+        ]
+      }
+    ],
+    "unresolved": [
+      "What precise request, instruction, reward or threat was communicated, and by whom?",
+      "How do contemporary records corroborate the later explanation of pressure?",
+      "Keep an explanation for conduct separate from a conclusion about what sanction is justified."
+    ],
+    "related": [
+      "warner-role",
+      "sanctions-and-responsibility",
+      "explanations-and-changes"
+    ]
+  }
+]

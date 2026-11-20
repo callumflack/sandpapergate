@@ -1,0 +1,592 @@
+[
+  {
+    "id": "SP001",
+    "priority": "1",
+    "period": "2018",
+    "target": "Newlands incident broadcast and surrounding play",
+    "source_type": "Recording",
+    "discovery_status": "Still to acquire",
+    "url": "",
+    "remaining_work": "Locate original broadcast; identify session and sequence; verify surrounding context"
+  },
+  {
+    "id": "SP002",
+    "priority": "1",
+    "period": "2018",
+    "target": "24 March Smith and Bancroft press conference",
+    "source_type": "Press conference",
+    "discovery_status": "Official account and original-post pointer located",
+    "url": "https://www.icc-cricket.com/news/bancroft-and-smith-answer-to-ball-tampering-allegations",
+    "remaining_work": "Acquire complete recording and Q&A transcript"
+  },
+  {
+    "id": "SP003",
+    "priority": "1",
+    "period": "2018",
+    "target": "25 March ICC sanctions",
+    "source_type": "Official release",
+    "discovery_status": "Official text opened",
+    "url": "https://www.icc-cricket.com/media-releases/steve-smith-suspended-and-bancroft-handed-three-demerit-points",
+    "remaining_work": "Preserve source version and verify citation anchors"
+  },
+  {
+    "id": "SP004",
+    "priority": "1",
+    "period": "2018",
+    "target": "27 March Sutherland preliminary findings and press conference",
+    "source_type": "Official statement",
+    "discovery_status": "Official report located",
+    "url": "https://www.icc-cricket.com/news/smith-warner-bancroft-sent-home-from-south-africa-sanctions-pending",
+    "remaining_work": "Acquire original release and complete recording"
+  },
+  {
+    "id": "SP005",
+    "priority": "1",
+    "period": "2018",
+    "target": "28 March CA public findings charges and sanctions",
+    "source_type": "Official release reproduced",
+    "discovery_status": "Full-text reproduction located in search",
+    "url": "https://www.cricket365.com/countries/australia/ca-warner-instructed-bancroft-to-use-sandpaper-on-the-ball",
+    "remaining_work": "Direct fetch failed; locate official copy or compare independent reproductions"
+  },
+  {
+    "id": "SP006",
+    "priority": "1",
+    "period": "2018",
+    "target": "Original CA investigation report and interview records",
+    "source_type": "Investigation records",
+    "discovery_status": "Not obtained",
+    "url": "",
+    "remaining_work": "Establish public availability; distinguish underlying records from public summary"
+  },
+  {
+    "id": "SP007",
+    "priority": "1",
+    "period": "2018",
+    "target": "Smith return-home press conference",
+    "source_type": "Press conference",
+    "discovery_status": "Still to acquire",
+    "url": "",
+    "remaining_work": "Acquire complete questions and answers with original date"
+  },
+  {
+    "id": "SP008",
+    "priority": "1",
+    "period": "2018",
+    "target": "Bancroft return-home press conference",
+    "source_type": "Press conference",
+    "discovery_status": "Official account located",
+    "url": "https://www.icc-cricket.com/news/ill-regret-this-for-the-rest-of-my-life-cameron-bancroft",
+    "remaining_work": "Acquire complete recording and Q&A transcript"
+  },
+  {
+    "id": "SP009",
+    "priority": "1",
+    "period": "2018",
+    "target": "Warner return-home press conference and statement",
+    "source_type": "Press conference",
+    "discovery_status": "Still to acquire",
+    "url": "",
+    "remaining_work": "Acquire complete recording and original written statement"
+  },
+  {
+    "id": "SP010",
+    "priority": "1",
+    "period": "2018",
+    "target": "Lehmann resignation statement and questions",
+    "source_type": "Press conference",
+    "discovery_status": "Still to acquire",
+    "url": "",
+    "remaining_work": "Acquire original complete recording and transcription"
+  },
+  {
+    "id": "SP011",
+    "priority": "1",
+    "period": "2018",
+    "target": "Player acceptance statements and CA confirmation",
+    "source_type": "Official and personal statements",
+    "discovery_status": "Official report located",
+    "url": "https://www.icc-cricket.com/news/warner-joins-smith-and-bancroft-in-accepting-sanctions",
+    "remaining_work": "Split underlying statements into separate records; verify original posts"
+  },
+  {
+    "id": "SP012",
+    "priority": "1",
+    "period": "2018",
+    "target": "ACA objections to process and sanctions",
+    "source_type": "Players association statement",
+    "discovery_status": "Contemporary reporting located",
+    "url": "https://www.abc.net.au/news/2018-04-03/ball-tampering-saga%3A-aca-asks-for-sanctions-to-be-reconsidered/9612494",
+    "remaining_work": "Acquire original ACA statement and full press conference"
+  },
+  {
+    "id": "SP013",
+    "priority": "1",
+    "period": "2018",
+    "target": "Historical MCC law and ICC Test playing conditions and codes",
+    "source_type": "Rules",
+    "discovery_status": "Exact historical Test documents still to acquire",
+    "url": "",
+    "remaining_work": "Identify versions in effect in March 2018; no current-law or ODI substitution"
+  },
+  {
+    "id": "SP014",
+    "priority": "2",
+    "period": "2018",
+    "target": "A Matter of Balance",
+    "source_type": "Commissioned cultural review",
+    "discovery_status": "Official-hosted PDF opened",
+    "url": "https://resources.cricket-australia.pulselive.com/cricket-australia/document/2025/12/02/e35b9d83-fb69-40de-8dea-be909ea4d1eb/The-Ethics-Centre-Organisation-s-review-into.pdf",
+    "remaining_work": "Extract with PDF page mapping; keep separate from incident investigation"
+  },
+  {
+    "id": "SP015",
+    "priority": "2",
+    "period": "2018",
+    "target": "Associated player review and CA response",
+    "source_type": "Review and response",
+    "discovery_status": "Still to acquire",
+    "url": "",
+    "remaining_work": "Establish availability of complete player review; acquire CA response"
+  },
+  {
+    "id": "SP016",
+    "priority": "2",
+    "period": "2018-2019",
+    "target": "Bancroft interview with Adam Gilchrist",
+    "source_type": "First-person interview",
+    "discovery_status": "Official broadcaster upload located",
+    "url": "https://www.youtube.com/watch?v=LASA0PhcX9s",
+    "remaining_work": "Verify December broadcast date versus January upload; watch and transcribe"
+  },
+  {
+    "id": "SP017",
+    "priority": "1",
+    "period": "2021",
+    "target": "Bancroft interview with Donald McRae",
+    "source_type": "First-person interview",
+    "discovery_status": "Original publisher text located",
+    "url": "https://www.theguardian.com/sport/2021/may/14/cameron-bancroft-on-the-australia-cricket-ball-tampering-scandal-i-lost-control-of-my-values",
+    "remaining_work": "Check complete context and publication version; record reuse status"
+  },
+  {
+    "id": "SP018",
+    "priority": "1",
+    "period": "2021",
+    "target": "18 May joint statement by Cummins Starc Hazlewood and Lyon",
+    "source_type": "Joint first-person statement",
+    "discovery_status": "Full statement on CA site located",
+    "url": "https://www.cricket.com.au/news/3313194",
+    "remaining_work": "Separate quoted statement from reporting; compare original release"
+  },
+  {
+    "id": "SP019",
+    "priority": "1",
+    "period": "2021",
+    "target": "CA response after contacting Bancroft",
+    "source_type": "Institutional response",
+    "discovery_status": "Response located alongside bowlers statement",
+    "url": "https://www.cricket.com.au/news/3313194",
+    "remaining_work": "Create distinct source record and verify original response"
+  },
+  {
+    "id": "SP020",
+    "priority": "2",
+    "period": "2022",
+    "target": "Warner leadership-review withdrawal statement and CA response",
+    "source_type": "Personal and institutional statements",
+    "discovery_status": "CA-hosted report with statements located",
+    "url": "https://www.cricket.com.au/news/3317340/warner-withdraws-from-leadership-review",
+    "remaining_work": "Acquire full original Warner post and split separate statements"
+  },
+  {
+    "id": "SP021",
+    "priority": "2",
+    "period": "2022",
+    "target": "James Erskine interview concerning alleged earlier instructions",
+    "source_type": "Manager interview",
+    "discovery_status": "Still to acquire",
+    "url": "",
+    "remaining_work": "Locate original full interview; identify basis of knowledge"
+  },
+  {
+    "id": "SP022",
+    "priority": "2",
+    "period": "2024",
+    "target": "Warner review panel decision",
+    "source_type": "Official decision",
+    "discovery_status": "Official PDF opened",
+    "url": "https://resources.cricket-australia.pulselive.com/cricket-australia/document/2024/10/24/3a33627d-491d-4a4b-b420-b12c431b56af/Cricket-Australia-David-Warner-Decision-Final.pdf",
+    "remaining_work": "Extract with page references; describe limited procedural purpose"
+  },
+  {
+    "id": "SP023",
+    "priority": "1",
+    "period": "2026",
+    "target": "Khawaja Sabr relevant complete chapter",
+    "source_type": "Memoir",
+    "discovery_status": "Publisher catalogue opened; chapter not acquired",
+    "url": "https://www.penguin.com.au/books/sabr-9781761344268",
+    "remaining_work": "Obtain identified edition and read whole chapter; record pages and publication status"
+  },
+  {
+    "id": "SP024",
+    "priority": "1",
+    "period": "2026",
+    "target": "Khawaja ABC 7.30 interview",
+    "source_type": "First-person interview",
+    "discovery_status": "48-second original clip located; full interview not obtained",
+    "url": "https://www.abc.net.au/news/2026-11-10/khawaja-defends-his-sandpaper-claims/107370554",
+    "remaining_work": "Locate complete interview and transcript; do not label clip complete"
+  },
+  {
+    "id": "SP025",
+    "priority": "1",
+    "period": "2026",
+    "target": "13 November Cummins press conference",
+    "source_type": "Press conference",
+    "discovery_status": "CA coverage located",
+    "url": "https://www.cricket.com.au/news/4608410/",
+    "remaining_work": "Acquire complete video and Q&A transcript; verify against recording"
+  },
+  {
+    "id": "SP026",
+    "priority": "1",
+    "period": "2026",
+    "target": "13 November Cummins press conference ABC live record",
+    "source_type": "Reporting and quoted first-person answers",
+    "discovery_status": "ABC text opened",
+    "url": "https://www.abc.net.au/news/2026-11-13/pat-cummins-live-media-conference-ball-tampering-usman-khawaja/107381096",
+    "remaining_work": "Use as discovery aid; distinguish live reporting from complete transcript"
+  },
+  {
+    "id": "SP027",
+    "priority": "1",
+    "period": "2026",
+    "target": "Starc original response",
+    "source_type": "First-person response",
+    "discovery_status": "Still to acquire",
+    "url": "",
+    "remaining_work": "Locate original recording or post and complete relevant exchange"
+  },
+  {
+    "id": "SP028",
+    "priority": "1",
+    "period": "2026",
+    "target": "Warner social statements and Fox Cricket responses",
+    "source_type": "First-person statements",
+    "discovery_status": "Still to acquire",
+    "url": "",
+    "remaining_work": "Acquire original posts and complete relevant exchanges on each date"
+  },
+  {
+    "id": "SP029",
+    "priority": "1",
+    "period": "2026",
+    "target": "15 November Sayers interview with Gerard Whateley",
+    "source_type": "First-person interview",
+    "discovery_status": "Original broadcaster full transcription and video located",
+    "url": "https://www.sen.com.au/news/2026/11/15/cricket-2026-chadd-sayers-interview-on-sandpapergate-sayers-says-all-usman-khawaja-pat-cummins",
+    "remaining_work": "Verify publisher transcript against recording; add time anchors"
+  },
+  {
+    "id": "SP030",
+    "priority": "2",
+    "period": "2026",
+    "target": "Sayers subsequent SEN response",
+    "source_type": "First-person interview",
+    "discovery_status": "Original broadcaster article and audio pointer located",
+    "url": "https://www.sen.com.au/news/2026/11/18/sandpaper-scandal-chadd-sayers-speaks-cam-bancroft-confession",
+    "remaining_work": "Verify interview date because URL and displayed date wording differ"
+  },
+  {
+    "id": "SP031",
+    "priority": "1",
+    "period": "2026",
+    "target": "Bancroft long-form statement original publication",
+    "source_type": "First-person statement",
+    "discovery_status": "Original publication URL located",
+    "url": "https://thewest.com.au/sport/cricket/world-exclusive-cam-bancroft-reveals-sandpapergate-truth-for-first-time-in-explosive-4000-word-tell-all-c-23180695",
+    "remaining_work": "Compare original with accessible copy; preserve original publication date"
+  },
+  {
+    "id": "SP032",
+    "priority": "1",
+    "period": "2026",
+    "target": "Bancroft long-form statement open copy",
+    "source_type": "Same underlying source as SP031",
+    "discovery_status": "Open full-text publisher copy opened",
+    "url": "https://7news.com.au/sport/cricket/cameron-bancrofts-full-4500-word-sandpapergate-statement-c-23183623",
+    "remaining_work": "Attach as access copy to canonical statement; verify completeness and reuse status"
+  },
+  {
+    "id": "SP033",
+    "priority": "1",
+    "period": "2026",
+    "target": "CA 10 November position on investigation",
+    "source_type": "Institutional position",
+    "discovery_status": "CA-hosted coverage located",
+    "url": "https://www.cricket.com.au/news/4607191/cricket-australia-will-not-reopen-sandpaper-ball-tampering-investigation-2026-todd-greenberg-usman-khawaja-david-warner",
+    "remaining_work": "Acquire original statement or complete press exchange"
+  },
+  {
+    "id": "SP034",
+    "priority": "1",
+    "period": "2026",
+    "target": "18 November Boon and Greenberg forum announcement",
+    "source_type": "Official press conference",
+    "discovery_status": "CA-hosted 21:50 recording located",
+    "url": "https://www.cricket.com.au/videos/4610625/david-boon-todd-greenberg-unveil-plans-for-independent-forum-ball-tampering-2018-south-africa-tour-cape-town-media",
+    "remaining_work": "Watch and transcribe; label forum accurately; preserve confidentiality/publication scope"
+  },
+  {
+    "id": "SP035",
+    "priority": "1",
+    "period": "2018-2026",
+    "target": "Relevant staff and other participant accounts",
+    "source_type": "Various first-person accounts",
+    "discovery_status": "Coverage gaps to resolve",
+    "url": "",
+    "remaining_work": "Search Lehmann Saker Hick Dovey Handscomb Paine Holland; do not assume statements exist"
+  },
+  {
+    "id": "SP036",
+    "priority": "1",
+    "period": "2018",
+    "target": "Smith and Bancroft: Cape Town confession — full published Q&A",
+    "source_type": "publisher_transcript",
+    "discovery_status": "Captured20November2026",
+    "url": "https://www.brisbanetimes.com.au/sport/cricket/transcript-the-smith-and-bancroft-ball-tampering-confession-20180325-p4z65c.html",
+    "remaining_work": "Full published transcript; not independently checked against original recording."
+  },
+  {
+    "id": "SP039",
+    "priority": "1",
+    "period": "2022",
+    "target": "David Warner: full leadership-review withdrawal statement",
+    "source_type": "verbatim",
+    "discovery_status": "Captured20November2026",
+    "url": "https://www.foxsports.com.au/cricket/australia/australian-cricket-news-2022-david-warner-withdraws-from-process-to-overturn-leadership-ban-cricket-australia-statement/news-story/c35a5c6e65387011a3e2eedc8f194548",
+    "remaining_work": "Full statement reproduced by Fox Sports; original social post not independently compared. Publisher migration modifies page metadata in 2026; original statement date retained separately."
+  },
+  {
+    "id": "SP041",
+    "priority": "1",
+    "period": "2026",
+    "target": "Pat Cummins: full SEN press conference — unverified automatic transcript",
+    "source_type": "automatic_transcript",
+    "discovery_status": "Captured20November2026",
+    "url": "https://scribehawk.com/transcript/the-full-pat-cummins-press-conference-sen-cricket",
+    "remaining_work": "Third-party Whisper AI transcript, explicitly unverified. Contains obvious recognition errors (e.g. sandpaper/ball tamper mistranscribed). No speaker diarisation. Do not use as verified verbatim quotation. Covers video timestamps 0:00–1:08:44; not identical timebase to podcast edition."
+  },
+  {
+    "id": "SP042",
+    "priority": "1",
+    "period": "2026",
+    "target": "Pat Cummins: full SEN press-conference audio",
+    "source_type": "recording_metadata",
+    "discovery_status": "Captured20November2026",
+    "url": "https://podcasts.apple.com/gb/podcast/full-presser-pat-cummins-answers-all-the-questions-on/id1651179419?i=1000801646950",
+    "remaining_work": "Complete publisher-labelled full press-conference podcast file downloaded; no listening/transcription verification performed. Metadata duration 4204 sec; may include podcast advertising/packaging. Separate from the automatic transcript’s video timebase. Preserved SEN RSS lists 4204sec; downloaded MP3 measures 4178.781833sec. Podcast ad/packaging duration can vary. MP3 ID3 date 2022 conflicts with event/feed date 2026; retained, not used as publication date. A 90-second opening spot check using existing local whisper-cpp CPU model identifies a Garmin advertisement followed by the intended Cummins introduction and Khawaja/sandpaper denial. This is provisional content identity, not full-event completeness or verbatim verification. Generated check transcript itself contains ASR errors."
+  },
+  {
+    "id": "SP048",
+    "priority": "1",
+    "period": "2018",
+    "target": "Cameron Bancroft: return-home statement and Q&A",
+    "source_type": "publisher_transcript",
+    "discovery_status": "Captured20November2026",
+    "url": "https://www.cricket.com.au/news/3296967",
+    "remaining_work": "Official CA-hosted published transcript, including prepared statement and Q&A. Original recording not independently checked."
+  },
+  {
+    "id": "SP055",
+    "priority": "1",
+    "period": "2026",
+    "target": "Usman Khawaja’s original November 2026 newspaper interview",
+    "source_type": "editorial",
+    "discovery_status": "Captured20November2026",
+    "url": "https://www.brisbanetimes.com.au/sport/cricket/it-was-all-of-us-khawaja-blows-the-whistle-on-more-sandpaper-use-in-south-africa-in-2018-20261107-p61ax6.html",
+    "remaining_work": "Complete published original newspaper interview with selected book passages. This is not the complete Sandpaper chapter; complete chapter remains unacquired."
+  },
+  {
+    "id": "SP061",
+    "priority": "1",
+    "period": "2024",
+    "target": "George Bailey on Bancroft’s January 2024 Test omission",
+    "source_type": "editorial",
+    "discovery_status": "Captured20November2026",
+    "url": "https://www.abc.net.au/news/2024-01-10/cameron-bancroft-test-omission-ball-tampering-george-bailey/103307322",
+    "remaining_work": "Complete published report with selected Bailey quotations, not full selection press conference. Publisher byline is AAP; report does not establish that ABC conducted the interview."
+  },
+  {
+    "id": "SP062",
+    "priority": "1",
+    "period": "2026",
+    "target": "Darren Lehmann’s November 2026 denial on ABC Sport",
+    "source_type": "editorial",
+    "discovery_status": "Captured20November2026",
+    "url": "https://www.abc.net.au/news/2026-11-07/darren-lehmann-usman-khawaja-sandpaper-ball-tampering/107359274",
+    "remaining_work": "ABC reporting on its own Summer Grandstand interview, containing selected quotations; full interview not acquired or reviewed."
+  },
+  {
+    "id": "SP063",
+    "priority": "1",
+    "period": "2026",
+    "target": "Cricket: Darren Lehmann reacts to bombshell ball tampering claims",
+    "source_type": "recording_metadata",
+    "discovery_status": "Captured 20 November 2026",
+    "url": "https://www.abc.net.au/listen/programs/best-of-abc-sport-podcast/cricket-lehmann-07/107359218",
+    "remaining_work": "Publisher page identifies Lehmann and Wheeldon, event and episode duration. Download measures 3033.12 seconds against 3033 publisher seconds. Complete download does not establish an unedited original broadcast or verified verbatim speech. Text blocks below are publisher metadata only. No speech inferred from descriptions or search snippets. 20 November independent decoder audit: a fresh official download is byte-identical; mpg123 decodes the full3033.12seconds and all291179520channel samples agree with FFmpeg to rounding-scale precision (RMS0.7073LSB, max19LSB). The overread message is version-matched FFmpeg AV_LOG_INFO Huffman boundary recovery, not a damaged-frame count. This resolves the unidentified decoder/duration concern, not the accuracy of every spoken word or original-event completeness."
+  },
+  {
+    "id": "SP064",
+    "priority": "1",
+    "period": "2021",
+    "target": "Bowling coach responds to Bancroft bombshell",
+    "source_type": "editorial",
+    "discovery_status": "Captured 20 November 2026",
+    "url": "https://www.smh.com.au/sport/cricket/the-finger-pointing-is-going-to-go-on-bowling-coach-responds-to-bancroft-bombshell-20210516-p57scg.html",
+    "remaining_work": "Complete original published interview report by Daniel Cherny, with selected Saker quotations; not a full raw interview or verbatim Q&A. Downloaded original publisher HTML exposes article body publicly. Publisher selection/attribution remains part of text; quoted assertions are not institutional findings. No account or access-control circumvention used."
+  },
+  {
+    "id": "SP065",
+    "priority": "1",
+    "period": "2026",
+    "target": "‘Absolutely false’: Another former coach denies knowledge of sandpaper plot",
+    "source_type": "editorial",
+    "discovery_status": "Captured 20 November 2026",
+    "url": "https://www.smh.com.au/sport/cricket/sandpaper-feuds-erupt-warner-takes-on-ex-coach-lehmann-in-stunning-twist-20261111-p61d98.html",
+    "remaining_work": "Complete original newspaper report containing Graeme Hick’s direct response to this masthead, alongside Warner/Handscomb and other reporting. It reproduces his personal denial, not a full interview recording/Q&A. Downloaded original publisher HTML exposes article body publicly. Publisher selection/attribution remains part of text; quoted assertions are not institutional findings. No account or access-control circumvention used."
+  },
+  {
+    "id": "SP066",
+    "priority": "1",
+    "period": "2018",
+    "target": "Lehmann issues emotional apology",
+    "source_type": "automatic_transcript",
+    "discovery_status": "Captured 20 November 2026",
+    "url": "https://www.youtube.com/watch?v=KjAUVBN8l_w",
+    "remaining_work": "Complete official publisher-uploaded 2m09 prepared apology statement segment, not entire March 28 press conference. Original YouTube en-orig automatic captions, uncorrected and not independently verified by listening. No speaker diarisation; do not cite as verified verbatim quotation."
+  },
+  {
+    "id": "SP067",
+    "priority": "1",
+    "period": "2018",
+    "target": "Lehmann announces his resignation",
+    "source_type": "automatic_transcript",
+    "discovery_status": "Captured 20 November 2026",
+    "url": "https://www.youtube.com/watch?v=M_ytRyPrMFE",
+    "remaining_work": "Complete official publisher-uploaded 6m23 resignation statement and questions segment; complements the CA-hosted published transcript SP049. Full press-conference completeness not independently established. Original YouTube en-orig automatic captions, uncorrected and not independently verified by listening. No speaker diarisation; do not cite as verified verbatim quotation."
+  },
+  {
+    "id": "SP068",
+    "priority": "1",
+    "period": "2018",
+    "target": "Lehmann announces shock resignation",
+    "source_type": "editorial",
+    "discovery_status": "Captured 20 November 2026",
+    "url": "https://www.cricket.com.au/news/3294566",
+    "remaining_work": "Complete contemporaneous official CA report, including the full prepared resignation statement and selected later answers. Publisher text preserves the opening personal denial and culture responsibility omitted from the separately captured SP049 transcript. Not a full verbatim Q&A. Statement is embedded in a reporter article and includes publisher attribution, typography and an apparent typo (\"by my last Test\"). It is not a clean authored original statement; wording is preserved as published. SP049 remains a frozen separate source. Do not silently splice these sources or present either published text as complete recording verification."
+  },
+  {
+    "id": "SP070",
+    "priority": "1",
+    "period": "2026",
+    "target": "Pat Cummins — full local automatic recognition — unverified ASR",
+    "source_type": "automatic_transcript",
+    "discovery_status": "Local automatic transcription 20 November 2026",
+    "url": "https://podcasts.apple.com/gb/podcast/full-presser-pat-cummins-answers-all-the-questions-on/id1651179419?i=1000801646950",
+    "remaining_work": "Machine recognition only: existing whisper.cpp1.9.4 CPU base.en-q5_1 model. No human listening verification; no reliable speaker diarisation. Recognition errors and omitted/merged speech remain. Untouched recognizer wording grouped into approximately30second windows by original segment start; exact start/end come from original ASR segments, not word-level acoustic verification. Full processing of supplied file is not independent proof of original event completeness. Programme framing, host questions, excerpts, ads and guest speech must be distinguished; see local comparison report. Separate recording/caption editions of one event and this generated derivative must not be counted as independent corroborating witnesses. Podcast includes opening and closing advertising. ScribeHawk video captions use a different clock; no certified global offset. Distant reporter questions are often omitted or garbled."
+  },
+  {
+    "id": "SP071",
+    "priority": "1",
+    "period": "2022",
+    "target": "James Erskine — full local automatic recognition — unverified ASR",
+    "source_type": "automatic_transcript",
+    "discovery_status": "Local automatic transcription 20 November 2026",
+    "url": "https://archive.sen.com.au/news/2022/12/08/warners-manager-tees-off-at-ca-in-explosive-interview/index.html",
+    "remaining_work": "Machine recognition only: existing whisper.cpp1.9.4 CPU base.en-q5_1 model. No human listening verification; no reliable speaker diarisation. Recognition errors and omitted/merged speech remain. Untouched recognizer wording grouped into approximately30second windows by original segment start; exact start/end come from original ASR segments, not word-level acoustic verification. Full processing of supplied file is not independent proof of original event completeness. Programme framing, host questions, excerpts, ads and guest speech must be distinguished; see local comparison report. Separate recording/caption editions of one event and this generated derivative must not be counted as independent corroborating witnesses. Guest farewell occurs around08:47–08:51; later bowlers/only-three remarks are host commentary. Closing ad recognition endpoint09:50.720 spills3.331seconds beyond actual09:47.389duration."
+  },
+  {
+    "id": "SP072",
+    "priority": "1",
+    "period": "2026",
+    "target": "Fox Cricket Cummins and Warner panel — full local automatic recognition — unverified ASR",
+    "source_type": "automatic_transcript",
+    "discovery_status": "Local automatic transcription 20 November 2026",
+    "url": "https://www.youtube.com/watch?v=Z0rNkH9JDDA",
+    "remaining_work": "Machine recognition only: existing whisper.cpp1.9.4 CPU base.en-q5_1 model. No human listening verification; no reliable speaker diarisation. Recognition errors and omitted/merged speech remain. Untouched recognizer wording grouped into approximately30second windows by original segment start; exact start/end come from original ASR segments, not word-level acoustic verification. Full processing of supplied file is not independent proof of original event completeness. Programme framing, host questions, excerpts, ads and guest speech must be distinguished; see local comparison report. Separate recording/caption editions of one event and this generated derivative must not be counted as independent corroborating witnesses. First05:21 contains host framing and an edited Cummins montage, not Warner speech. Warner answers begin around05:50. Automatic captions contain a consequential legal/illegal discrepancy at01:58; see comparison report."
+  },
+  {
+    "id": "SP073",
+    "priority": "1",
+    "period": "2026",
+    "target": "Darren Lehmann ABC Summer Grandstand — full local automatic recognition — unverified ASR",
+    "source_type": "automatic_transcript",
+    "discovery_status": "Local automatic transcription 20 November 2026",
+    "url": "https://www.abc.net.au/listen/programs/best-of-abc-sport-podcast/cricket-lehmann-07/107359218",
+    "remaining_work": "Machine recognition only: existing whisper.cpp1.9.4 CPU base.en-q5_1 model. No human listening verification; no reliable speaker diarisation. Recognition errors and omitted/merged speech remain. Untouched recognizer wording grouped into approximately30second windows by original segment start; exact start/end come from original ASR segments, not word-level acoustic verification. Full processing of supplied file is not independent proof of original event completeness. Programme framing, host questions, excerpts, ads and guest speech must be distinguished; see local comparison report. Separate recording/caption editions of one event and this generated derivative must not be counted as independent corroborating witnesses. Full3033.12second file decoded, but ffmpeg emitted numerous MP3 overread/skip/enddists warnings. Processing success does not establish clean audio or absence of audible damage. Listener messages/questions and other cricket topics are interspersed; no complete speaker diarisation. 20 November full independent mpg123 decode and official byte comparison resolve the earlier unidentified decoder concern: see SP063 decode audit. The automatic wording, reporter omissions and speaker attribution remain unverified."
+  },
+  {
+    "id": "SP074",
+    "priority": "1",
+    "period": "2021",
+    "target": "Bowling coach calls on Cricket Australia to release ball-tampering report",
+    "source_type": "editorial",
+    "discovery_status": "Captured20November2026",
+    "url": "https://www.theguardian.com/sport/2021/jun/03/bowling-coach-calls-on-cricket-australia-to-release-ball-tampering-report",
+    "remaining_work": "No complete conference recording or verbatim Q&A located. This complete article does not close the full Saker interview target. Article gives Guardian sport byline but does not establish who attended the underlying media appearance or supply raw recording. This is publisher reporting of direct quotations, not an independently verified verbatim statement. Publication context differs from May16 SP064 broad-blame response: this June3 report contains a specific denial of sandpaper knowledge. Neither is silently treated as a complete evolving account."
+  },
+  {
+    "id": "SP075",
+    "priority": "1",
+    "period": "2019",
+    "target": "Saker regains passion as he eyes Melbourne Stars coaching job",
+    "source_type": "editorial",
+    "discovery_status": "Captured20November2026",
+    "url": "https://www.smh.com.au/sport/cricket/saker-regains-passion-as-he-eyes-melbourne-stars-coaching-job-20190501-p51j3l.html",
+    "remaining_work": "Complete original Daniel Cherny published interview report from 1 May2019, with selected Saker quotations on his departure, ball-tampering introspection and never condoning cheating. Not a full raw interview, authored statement or verbatim Q&A. The public unauthenticated publisher HTTP200 HTML contains the article body; no account, subscription, browser cookies, or access-control circumvention used. Publisher selection and attribution remain part of the captured text. The denial of condoning cheating is distinct from denying personal knowledge of sandpaper. This 2019 interview cannot be treated as a response to the specific 2026 allegations. The original article does not make the non-disclosure-agreement claim found in a secondary Wisden reprise. Do not attribute that secondary framing to Saker or to this original report. Publication is dated1May2019; the exact interview/statement time is not independently established."
+  },
+  {
+    "id": "SP080",
+    "priority": "1",
+    "period": "2026",
+    "target": "Chadd Sayers: complete SEN interview recording and automatic captions",
+    "source_type": "automatic_transcript",
+    "discovery_status": "Captured20November2026",
+    "url": "https://www.youtube.com/watch?v=JONIiQQgbXk",
+    "remaining_work": "Not verified by direct listening in this pass. Automatic captions and local recognition contain lexical/proper-name errors and unreliable speaker boundaries; not a listening-verified transcript. Publisher transcript SP029 drops the opening moderator passage and cleans repetitions/fillers. It is complete published interview text, not a word-for-word record of every audible exchange. YouTube metadata records upload15November2026; the article embedded publication instant renders17November in Brisbane. Upload time is not independently verified interview time; the date distinction is retained. The exact wording of the speculation about too much information is not resolved by automatic recognition. Use the published SP029 quotation with its stated uncertainty, not a certified recording quotation."
+  },
+  {
+    "id": "SP081",
+    "priority": "1",
+    "period": "2026",
+    "target": "‘I’ve moved on’: Marsh reveals Khawaja phone call in ball-tampering grilling",
+    "source_type": "editorial",
+    "discovery_status": "Captured 20 November 2026",
+    "url": "https://www.nine.com.au/sport/cricket/mitchell-marsh-comments-speaks-sandpapergate-claims-moved-on-usman-khawaja-sabr-book-20261112-p61dpt.html",
+    "remaining_work": "Complete original12November2026 Nine report of Mitchell Marsh’s pre-England ODI press conference, containing selected quotations; not the complete conference or a verbatim transcript. Marsh declines to share his recollections; this is neither an admission nor denial of prior sandpaper knowledge. The report expressly distinguishes Marsh from the four signatories of the2021bowlers statement. Do not attribute that joint denial to Marsh. Publisher report selected quotations and attribution retained; full underlying conference not acquired or reviewed."
+  },
+  {
+    "id": "SP082",
+    "priority": "1",
+    "period": "2022",
+    "target": "‘My heart sank’: Paine reveals anguish of Sandpapergate scandal",
+    "source_type": "editorial",
+    "discovery_status": "Captured 20 November 2026",
+    "url": "https://www.smh.com.au/sport/cricket/my-heart-sank-paine-reveals-anguish-of-sandpapergate-scandal-20221024-p5bsg1.html",
+    "remaining_work": "Complete original Malcolm Conn interview report published25October2022AEST, acquired via legitimate BrisbaneTimes edition; selected Paine interview quotations and memoir extracts, plus duPlessis quotations. Not a full interview or memoir chapter. Contains two people’s statements and two formats: Paine own interview, Paine memoir extracts and duPlessis book extracts. Preserve attribution. Paine’s recollection of being shocked is from his memoir as quoted by the report; no full book chapter comparison. Public unauthenticated HTTP200BrisbaneTimes publisher HTML supplies complete body. Canonical owning article is SMH, with the same p5bsg1ID. No account or access-control bypass used. Interview exact day unverified; Australian publication25October2022 is2022-10-24T18:00UTC. Not a reply to2026allegations."
+  },
+  {
+    "id": "SP083",
+    "priority": "1",
+    "period": "2022",
+    "target": "Tim Paine comes clean over infamous Cape Town cricket ball-tampering saga: ‘Everyone was a part of it’",
+    "source_type": "editorial",
+    "discovery_status": "Captured 20 November 2026",
+    "url": "https://7news.com.au/sport/cricket/tim-paine-comes-clean-over-infamous-cape-town-ball-tampering-saga-everyone-was-a-part-of-it-c-8651314",
+    "remaining_work": "Complete Harrison Reid Seven25October2022report selecting passages from Paine memoir, including collective responsibility, no teammeeting, ballmanager and supporting sanctionedplayers. Not a complete memoir statement, chapter or new2026reply. The acquired original is Seven’s own published report of the memoir, not the original complete book or an unedited statement. Selected book quotations are attributed as memoir extracts only. The denial of others knowing the plot is reporter framing in p004. The direct teammeeting denial and throwing-on-bounce explanation are p014; distinguish these. Collective responsibility wording is not a specific admission of personal sandpaper knowledge. The publisher p002inaccurately compresses all three sanctions to a year; Bancroft’s ban was9months. Frozen publisher wording is retained, not endorsed or silently corrected. The prospective teammeeting wording about what we are going to do does not categorically deny a later post-exposure meeting about accepting collective responsibility."
+  }
+]

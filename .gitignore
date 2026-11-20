@@ -1,0 +1,9 @@
+node_modules/
+dist/
+.astro/
+.nimbus/
+.wrangler/
+.env*
+.dev.vars*
+.DS_Store
+artifacts/
