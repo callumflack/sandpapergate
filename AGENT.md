@@ -6,6 +6,14 @@
 - Headings, description and body share their parent width; no character-width hacks or manual body line breaks.
 - Checks: npm run format:check, npm run build, npm run check, npm run verify:public; observe changed production-preview pages/search.
 
+## Deployment
+
+All production deployments and rollbacks must go through [the public repository’s GitHub Actions workflow](https://github.com/callumflack/sandpapergate/blob/main/.github/workflows/check.yml). Authorized changes reach `main` through an approved contributor PR or an owner-authorized direct push. CI runs the checks, builds the site and deploys that exact verified artifact to the existing Cloudflare Worker.
+
+Do not upload folders in the Cloudflare dashboard, run a local `wrangler deploy`, call deployment APIs directly, or use a manual fallback. If CI fails, fix the workflow or report the blocker. Roll back by reverting or correcting `main` and letting CI deploy it.
+
+A push alone is not a completed deployment. Confirm the checks and deployment jobs passed for the intended commit, then verify the relevant live pages. The private research build must remain local.
+
 ## Source titles
 
 Name the event or document in the title. Use the status label for transcript method, verification and completeness. Use a publisher or date to distinguish editions where needed. Preserve source IDs, URLs and exact citations when editing titles.

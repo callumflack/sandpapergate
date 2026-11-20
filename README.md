@@ -31,3 +31,5 @@ The public MDX pages in `src/content/docs` are editable source, not regenerated 
 ## Hosting
 
 GitHub Actions checks every PR and push to `main`. After the checks pass on `main`, the deployment job publishes that same verified build to the existing `sandpapergate` Cloudflare Worker. Deployments run one at a time, and an older build is skipped if `main` has moved. The `production` environment supplies the Worker-scoped credential to the deployment job.
+
+All deployments and rollbacks go through [this workflow](.github/workflows/check.yml). Do not upload folders through the Cloudflare dashboard, deploy with local Wrangler or direct API calls, or fall back to manual deployment when CI fails. Fix CI or report the blocker. To roll back, revert or correct `main` and let CI deploy it. After deployment, confirm the matching commit’s checks and deployment jobs succeeded and verify the live site. See [the agent deployment instructions](AGENT.md#deployment).
