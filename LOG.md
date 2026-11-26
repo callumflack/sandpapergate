@@ -1,5 +1,9 @@
 # Public release worklog
 
+## 26 November 2026 — Khawaja’s captaincy allegation
+
+Callum asked for the book’s allegation and its stated basis to be published. The existing question now leads with the memoir passage quoted by AAP. The ABC interview and Cummins’s reply are dated separately. The extract does not establish the selectors’ actual motive.
+
 ## 26 November 2026 — Cummins press conference transcript
 
 Callum requested the full press conference under Documents. SP070 is the archive’s own automatic transcript of the SEN podcast. The public reading copy keeps the recording timestamps and paragraph IDs, omits the advertisements and links the captaincy exchange. The wording and speaker turns still require checking against the recording. The existing GitHub Actions workflow owns publication.

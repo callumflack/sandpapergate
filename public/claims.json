@@ -1,6 +1,6 @@
 {
-  "as_of": "2026-11-20",
-  "analysis_as_of": "2026-11-20",
+  "as_of": "2026-11-26",
+  "analysis_as_of": "2026-11-26",
   "khawaja_claims": [
     {
       "slug": "khawaja/earlier-use",
@@ -2606,127 +2606,78 @@
     },
     {
       "slug": "khawaja/race-and-captaincy",
-      "title": "Khawaja describes exclusion and possible racial bias",
-      "proposition": "Khawaja felt stereotypes and race affected his opportunities and belonging, while qualifying the claim about a particular captaincy decision.",
+      "title": "What evidence did Khawaja give that race cost him the Test captaincy?",
+      "proposition": "In Sabr, Khawaja identified race as the more important reason he believed he was passed over for the interim Test captaincy in 2018.",
       "group": "Related claims",
-      "kind": "Lived experience and qualified causal suspicion",
+      "kind": "Allegation about selection",
       "basis": {
-        "text": "Ferguson introduces a categorical race explanation for the captaincy decision. Khawaja says he has no concrete evidence, describes how he felt, says he cannot be certain and does not necessarily attribute that particular decision to race. He also says Paine proved a good choice.",
-        "limit": "The interviewer’s premise must not be turned into Khawaja’s unqualified factual allegation. His broader experience and the causal explanation of one decision require different evidence.",
+        "text": "Khawaja gave two reasons for being passed over. He identified his role in the 2017 pay dispute and gave greater weight to the selectors’ readiness to appoint a brown Australian captain.",
+        "limit": "AAP reproduces the relevant passage. The archive has not acquired the complete chapter.",
+        "excerpt_url": "https://aapnews.aap.com.au/news/test-skipper-finds-khawaja-s-racial-claims-most-serious",
         "refs": [
           {
-            "source": "SP040",
-            "blocks": [
-              "p-049",
-              "p-050",
-              "p-051",
-              "p-052",
-              "p-053",
-              "p-054",
-              "p-055",
-              "p-056"
-            ],
-            "url": "/documents/sp024-khawaja-abc-7-30-interview/",
-            "passage_urls": [
-              "/documents/sp024-khawaja-abc-7-30-interview/#p-049",
-              "/documents/sp024-khawaja-abc-7-30-interview/#p-050",
-              "/documents/sp024-khawaja-abc-7-30-interview/#p-051",
-              "/documents/sp024-khawaja-abc-7-30-interview/#p-052",
-              "/documents/sp024-khawaja-abc-7-30-interview/#p-053",
-              "/documents/sp024-khawaja-abc-7-30-interview/#p-054",
-              "/documents/sp024-khawaja-abc-7-30-interview/#p-055",
-              "/documents/sp024-khawaja-abc-7-30-interview/#p-056"
-            ]
+            "source": "SP023",
+            "blocks": [],
+            "url": "/documents/sp023-khawaja-sabr-relevant-complete-chapter/",
+            "passage_urls": []
           }
         ]
       },
       "supporting": [
         {
-          "title": "His testimony supports the reported experience",
-          "reasoning": "Khawaja describes recurring stereotypes about laziness, fitting in and effort, and says he first felt fully part of the team during the 2022 Ashes celebration. That is direct testimony about his experience and the meaning he gives it.",
-          "limit": "Testimony to an experience does not independently establish the motives of the people making a particular appointment. No decision-maker document is captured here supporting a race-based veto.",
+          "title": "The chairman’s reported assessment",
+          "reasoning": "Khawaja said the chairman had told a journalist he knew that Khawaja lacked the qualities sought in a captain. Khawaja took the remark to refer to his background and skin colour.",
+          "limit": "The quoted remark contains no reference to race. The racial explanation comes from Khawaja.",
           "refs": [
             {
-              "source": "SP040",
-              "blocks": [
-                "p-055",
-                "p-056",
-                "p-057",
-                "p-058",
-                "p-059"
-              ],
-              "url": "/documents/sp024-khawaja-abc-7-30-interview/",
-              "passage_urls": [
-                "/documents/sp024-khawaja-abc-7-30-interview/#p-055",
-                "/documents/sp024-khawaja-abc-7-30-interview/#p-056",
-                "/documents/sp024-khawaja-abc-7-30-interview/#p-057",
-                "/documents/sp024-khawaja-abc-7-30-interview/#p-058",
-                "/documents/sp024-khawaja-abc-7-30-interview/#p-059"
-              ]
+              "source": "SP023",
+              "blocks": [],
+              "url": "/documents/sp023-khawaja-sabr-relevant-complete-chapter/",
+              "passage_urls": []
             }
           ]
         }
       ],
       "challenging": [
         {
-          "title": "His own qualifications limit the particular causal claim",
-          "reasoning": "Khawaja explicitly acknowledges uncertainty and lack of concrete evidence, and retrospectively endorses Paine’s appointment. Cummins rejects a categorical racial restriction on captaincy.",
-          "limit": "Neither a general rejection of racism nor a good eventual appointment disproves a specific past bias. These limits do not refute Khawaja’s reported feelings or wider experience.",
+          "title": "Khawaja’s answer on evidence and Cummins’s response",
+          "reasoning": "Khawaja acknowledged the lack of concrete evidence when Ferguson asked. He said he could never be certain and thought in hindsight that Paine was the right choice. Cummins rejected the suggestion that skin colour could exclude someone from the job and called for evidence.",
+          "limit": "The selectors’ actual reasons remain unconfirmed by these accounts.",
           "refs": [
             {
-              "source": "SP040",
+              "source": "SP024",
               "blocks": [
+                "p-049",
                 "p-050",
-                "p-051",
-                "p-052",
                 "p-053",
-                "p-055",
-                "p-056"
+                "p-054"
               ],
               "url": "/documents/sp024-khawaja-abc-7-30-interview/",
               "passage_urls": [
+                "/documents/sp024-khawaja-abc-7-30-interview/#p-049",
                 "/documents/sp024-khawaja-abc-7-30-interview/#p-050",
-                "/documents/sp024-khawaja-abc-7-30-interview/#p-051",
-                "/documents/sp024-khawaja-abc-7-30-interview/#p-052",
                 "/documents/sp024-khawaja-abc-7-30-interview/#p-053",
-                "/documents/sp024-khawaja-abc-7-30-interview/#p-055",
-                "/documents/sp024-khawaja-abc-7-30-interview/#p-056"
+                "/documents/sp024-khawaja-abc-7-30-interview/#p-054"
               ]
             },
             {
-              "source": "SP069",
+              "source": "SP070",
               "blocks": [
-                "p-110",
-                "p-111",
-                "p-112",
-                "p-113",
-                "p-114",
-                "p-115",
-                "p-164",
-                "p-165",
-                "p-166"
+                "p-059",
+                "p-060"
               ],
-              "url": "/documents/sp026-13-november-cummins-press-conference-abc-live-record/",
+              "url": "/documents/sp070-pat-cummins-full-local-automatic-recognition-unverified-asr/",
               "passage_urls": [
-                "/documents/sp026-13-november-cummins-press-conference-abc-live-record/#p-110",
-                "/documents/sp026-13-november-cummins-press-conference-abc-live-record/#p-111",
-                "/documents/sp026-13-november-cummins-press-conference-abc-live-record/#p-112",
-                "/documents/sp026-13-november-cummins-press-conference-abc-live-record/#p-113",
-                "/documents/sp026-13-november-cummins-press-conference-abc-live-record/#p-114",
-                "/documents/sp026-13-november-cummins-press-conference-abc-live-record/#p-115",
-                "/documents/sp026-13-november-cummins-press-conference-abc-live-record/#p-164",
-                "/documents/sp026-13-november-cummins-press-conference-abc-live-record/#p-165",
-                "/documents/sp026-13-november-cummins-press-conference-abc-live-record/#p-166"
+                "/documents/sp070-pat-cummins-full-local-automatic-recognition-unverified-asr/#p-059",
+                "/documents/sp070-pat-cummins-full-local-automatic-recognition-unverified-asr/#p-060"
               ]
             }
           ]
         }
       ],
-      "assessment": "The interview establishes what Khawaja says he felt and the qualifications he makes. It does not establish discriminatory causation in the particular appointment. This question should remain separate from evidence about sandpaper knowledge.",
+      "assessment": "Khawaja attributed the decision to race in his book. The chairman’s reported remark questioned his suitability for the job. Khawaja supplied the racial interpretation and later acknowledged he had no concrete evidence for it.",
       "unresolved": [
-        "If pursued, what is the appointment’s decision history and who made the decision?",
-        "What evidence bears on those decision-makers’ reasons?",
-        "Which broader experiences does Khawaja distinguish from that particular decision?"
+        "What did the chairman mean by his reported assessment of Khawaja, and what reasons did the selectors give when they chose Paine?"
       ],
       "related": []
     }

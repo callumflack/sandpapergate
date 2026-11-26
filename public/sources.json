@@ -1419,7 +1419,13 @@
         "SP055"
       ],
       "related_targets": [],
-      "annotations": {},
+      "annotations": {
+        "captaincy_excerpt": {
+          "publisher": "Australian Associated Press",
+          "date": "2026-11-13",
+          "url": "https://aapnews.aap.com.au/news/test-skipper-finds-khawaja-s-racial-claims-most-serious"
+        }
+      },
       "source_type": "Memoir",
       "author": null,
       "publication_date": null,
