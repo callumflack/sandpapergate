@@ -39,7 +39,7 @@ assert manifest['publication_status']=='public-reference-edition'
 byid={s['id']:s for s in manifest['sources']}
 locators=0
 for s in byid.values():
- assert s['source_text_published'] is (s['id']=='SP024'),f"Unexpected full-text publication status: {s['id']}"
+ assert s['source_text_published'] is (s['id'] in {'SP024','SP070'}),f"Unexpected full-text publication status: {s['id']}"
  page=pages[s['url'].lstrip('/')+'index.html']
  for url in s['paragraph_urls']:
   assert urlsplit(url).fragment in page.ids,(s['id'],url)

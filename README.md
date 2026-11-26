@@ -4,7 +4,7 @@
 
 A public source catalogue and argument map for the 2018 South Africa tour and subsequent accounts. Claims, responses and unresolved questions are distinguished; there is no prescribed verdict.
 
-The public edition contains original archive analysis, source metadata and citation locators. SP024 includes the full ABC 7.30 interview transcript supplied for publication. Other downloaded publisher articles, memoir excerpts, PDFs, recordings and automatic transcripts remain private. Follow original publisher links for those sources. Collection/completeness labels describe the research capture; missing source and listening checks remain visible.
+The public edition contains original archive analysis, source metadata and citation locators. SP024 includes the full ABC 7.30 interview transcript supplied for publication. SP070 publishes the archive’s timestamped automatic transcript of Pat Cummins’s press conference from opening remarks to closing thanks. Other downloaded publisher articles, memoir excerpts, PDFs, recordings and automatic transcripts remain private. Follow original publisher links for those sources. Collection/completeness labels describe the research capture; missing source and listening checks remain visible.
 
 ## Local development
 

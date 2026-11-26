@@ -1,5 +1,9 @@
 # Public release worklog
 
+## 26 November 2026 — Cummins press conference transcript
+
+Callum requested the full press conference under Documents. SP070 is the archive’s own automatic transcript of the SEN podcast. The public reading copy keeps the recording timestamps and paragraph IDs, omits the advertisements and links the captaincy exchange. The wording and speaker turns still require checking against the recording. The existing GitHub Actions workflow owns publication.
+
 ## 20 November 2026 — Initial public reference edition
 
 Authorised by Callum: publish the site and public repository under callumflack; accept PRs while requiring his merge authorisation. Full third-party source text and all private research files remain excluded. Source catalogue, original archive analysis, stable citation locators and open source/listening gaps are included. Main will require CODEOWNER approval, public-site checks and resolved conversations, with admin enforcement and no force pushes/deletion.

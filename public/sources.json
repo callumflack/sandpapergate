@@ -1,6 +1,6 @@
 {
   "title": "Sandpapergate source manifest",
-  "as_of": "2026-11-20",
+  "as_of": "2026-11-26",
   "publication_status": "public-reference-edition",
   "canonical_target_count": 58,
   "collected_count": 51,
@@ -4765,9 +4765,9 @@
       "milestone": null,
       "publication_group": null,
       "edition_check": null,
-      "coverage": "Complete supplied publisher media file processed by local automatic recognition. This derivative is not a separate witness, verified transcript, or proof of complete unedited event coverage.",
+      "coverage": "Automatic transcript of the SEN podcast press conference, from opening remarks to closing thanks. The public reading copy omits the podcast advertisements and retains all original paragraph IDs.",
       "verification_limitations": "Machine recognition only: existing whisper.cpp1.9.4 CPU base.en-q5_1 model. No human listening verification; no reliable speaker diarisation. Recognition errors and omitted/merged speech remain. Untouched recognizer wording grouped into approximately30second windows by original segment start; exact start/end come from original ASR segments, not word-level acoustic verification. Full processing of supplied file is not independent proof of original event completeness. Programme framing, host questions, excerpts, ads and guest speech must be distinguished; see local comparison report. Separate recording/caption editions of one event and this generated derivative must not be counted as independent corroborating witnesses. Podcast includes opening and closing advertising. ScribeHawk video captions use a different clock; no certified global offset. Distant reporter questions are often omitted or garbled.",
-      "remaining_work": "Machine recognition only: existing whisper.cpp1.9.4 CPU base.en-q5_1 model. No human listening verification; no reliable speaker diarisation. Recognition errors and omitted/merged speech remain. Untouched recognizer wording grouped into approximately30second windows by original segment start; exact start/end come from original ASR segments, not word-level acoustic verification. Full processing of supplied file is not independent proof of original event completeness. Programme framing, host questions, excerpts, ads and guest speech must be distinguished; see local comparison report. Separate recording/caption editions of one event and this generated derivative must not be counted as independent corroborating witnesses. Podcast includes opening and closing advertising. ScribeHawk video captions use a different clock; no certified global offset. Distant reporter questions are often omitted or garbled.",
+      "remaining_work": "Check the wording and speaker changes against the recording, especially indistinct reporter questions and proper names.",
       "paragraph_count": 140,
       "text_sha256": "5c626a8bc14a10471e18c0be66e08897eb75bcbb590b610b0b28ce6844135884",
       "raw_sha256": "f5ceb437451c36cf2dc4c2290d72b6232b6180e7a4c3b14057edaa7768741101",
@@ -4925,7 +4925,7 @@
         "/documents/sp070-pat-cummins-full-local-automatic-recognition-unverified-asr/#p-140"
       ],
       "publication_status": "public-reference-edition",
-      "source_text_published": false
+      "source_text_published": true
     },
     {
       "id": "SP071",
@@ -5880,5 +5880,5 @@
       "source_text_published": false
     }
   ],
-  "source_text_policy": "Original archive analysis, source metadata and citation locators. SP024 includes the full publisher transcript supplied for publication; other captured source text and recordings remain private. Follow publisher links for originals."
+  "source_text_policy": "The archive publishes the supplied ABC interview transcript (SP024) and its own automatic transcript of the SEN Cummins press conference (SP070). Other captured source text and recordings remain in the private research collection."
 }
